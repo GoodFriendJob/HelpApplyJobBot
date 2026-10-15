@@ -1,0 +1,330 @@
+Updated 2026-10-11 14:43:35
+
+NEED AN ANSWER
+  [2x] What level of US security clearance do you have?
+        last: 2026-10-11 14:43:35 | Dice | ec3 Federal Services | Mid Level Java Developers with Active Secret Clearance | https://www.dice.com/job-detail/dc3eacf4-60c3-4ae7-b3b8-a6e25fbfaed3
+  [1x] Form error
+        last: 2026-10-11 14:43:35 | Dice | ec3 Federal Services | Mid Level Java Developers with Active Secret Clearance | https://www.dice.com/job-detail/dc3eacf4-60c3-4ae7-b3b8-a6e25fbfaed3
+  [2x] Are you eligible to obtain secret clearance?
+        last: 2026-10-11 14:58:36 | Dice | Feuji Inc | Full Stack AWS Developer | https://www.dice.com/job-detail/fd858a96-b0d4-4027-8b26-262b04a39916
+  [2x] Form error
+        last: 2026-10-11 14:58:36 | Dice | Feuji Inc | Full Stack AWS Developer | https://www.dice.com/job-detail/fd858a96-b0d4-4027-8b26-262b04a39916
+  [1x] Location
+        last: 2026-10-11 15:00:44 | Dice | The Search Solutions, LLC | Sr. Staff Software Engineer - Agentic AI Products | https://www.dice.com/job-detail/78ca7321-b6d7-4a3e-911b-76ea53b8ec3f
+  [3x] Form error
+        last: 2026-10-11 15:00:44 | Dice | The Search Solutions, LLC | Sr. Staff Software Engineer - Agentic AI Products | https://www.dice.com/job-detail/78ca7321-b6d7-4a3e-911b-76ea53b8ec3f
+  [3x] What level of US security clearance do you have?
+        last: 2026-10-11 15:31:54 | Dice | Data Capital Inc | Integration Lead | https://www.dice.com/job-detail/26d80dbb-8be2-4376-9ae3-211912b60c76
+  [4x] Form error
+        last: 2026-10-11 15:31:54 | Dice | Data Capital Inc | Integration Lead | https://www.dice.com/job-detail/26d80dbb-8be2-4376-9ae3-211912b60c76
+  [2x] Are you local to ohio ?
+        last: 2026-10-11 15:35:58 | Dice | Sradha Technologies LLC | .Net Programmer - Only Local to OH Candidates | https://www.dice.com/job-detail/5fab1606-05d0-4907-951b-35d294e9c707
+  [5x] Form error
+        last: 2026-10-11 15:35:58 | Dice | Sradha Technologies LLC | .Net Programmer - Only Local to OH Candidates | https://www.dice.com/job-detail/5fab1606-05d0-4907-951b-35d294e9c707
+  [2x] W2 contract
+        last: 2026-10-11 15:47:41 | Dice | New York Technology Partners | Team Lead – InfoLease/Rapport Application Support & Development | https://www.dice.com/job-detail/cd14bd7b-bde9-4ed4-8951-d899a93d9a2d
+  [6x] Form error
+        last: 2026-10-11 15:47:41 | Dice | New York Technology Partners | Team Lead – InfoLease/Rapport Application Support & Development | https://www.dice.com/job-detail/cd14bd7b-bde9-4ed4-8951-d899a93d9a2d
+  [2x] The approved salary range for this position is between $150-170K annually. Does that meet your requirements?
+        last: 2026-10-11 16:07:00 | Dice | VITL | Director of Daily Operations and Customer Applications | https://www.dice.com/job-detail/f2ec581a-56cf-4c5d-b700-35638eeb4bb7
+        -> True
+  [7x] Form error
+        last: 2026-10-11 16:07:00 | Dice | VITL | Director of Daily Operations and Customer Applications | https://www.dice.com/job-detail/f2ec581a-56cf-4c5d-b700-35638eeb4bb7
+  [2x] What is your current US visa status?
+        last: 2026-10-11 16:09:04 | Dice | InvestM Technology LLC | Teamcenter Infra and Application Admin | https://www.dice.com/job-detail/667cffbf-1014-4953-b870-d916ecf93d78
+        -> U.S. Citizen
+  [2x] Would you consider relocation within US for other long term contract jobs available with us?
+        last: 2026-10-11 16:09:04 | Dice | InvestM Technology LLC | Teamcenter Infra and Application Admin | https://www.dice.com/job-detail/667cffbf-1014-4953-b870-d916ecf93d78
+        -> No
+  [2x] Can you work directly on our W2 payroll without any kind of visa sponsorship, now and in the future?
+        last: 2026-10-11 16:09:04 | Dice | InvestM Technology LLC | Teamcenter Infra and Application Admin | https://www.dice.com/job-detail/667cffbf-1014-4953-b870-d916ecf93d78
+  [8x] Form error
+        last: 2026-10-11 16:09:04 | Dice | InvestM Technology LLC | Teamcenter Infra and Application Admin | https://www.dice.com/job-detail/667cffbf-1014-4953-b870-d916ecf93d78
+  [2x] US work authorization
+        last: 2026-10-12 11:35:04 | Wellfound |  | Content, Community & Partnerships Manager (Offshore) | https://wellfound.com/jobs/4824628-content-community-partnerships-manager-offshore
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [1x] I'm open to work remotely
+        last: 2026-10-12 11:35:04 | Wellfound |  | Content, Community & Partnerships Manager (Offshore) | https://wellfound.com/jobs/4824628-content-community-partnerships-manager-offshore
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [1x] Desired Salary
+        last: 2026-10-12 11:35:04 | Wellfound |  | Content, Community & Partnerships Manager (Offshore) | https://wellfound.com/jobs/4824628-content-community-partnerships-manager-offshore
+        -> 120000
+  [1x] Yes
+        last: 2026-10-12 11:35:04 | Wellfound |  | Content, Community & Partnerships Manager (Offshore) | https://wellfound.com/jobs/4824628-content-community-partnerships-manager-offshore
+  [1x] No
+        last: 2026-10-12 11:35:04 | Wellfound |  | Content, Community & Partnerships Manager (Offshore) | https://wellfound.com/jobs/4824628-content-community-partnerships-manager-offshore
+  [3x] US work authorization
+        last: 2026-10-12 11:37:11 | Wellfound |  | Lead – Customer Success & Delivery (Europe) | https://wellfound.com/jobs/4171880-lead-customer-success-delivery-europe
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [2x] I'm open to work remotely
+        last: 2026-10-12 11:37:11 | Wellfound |  | Lead – Customer Success & Delivery (Europe) | https://wellfound.com/jobs/4171880-lead-customer-success-delivery-europe
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [2x] Desired Salary
+        last: 2026-10-12 11:37:11 | Wellfound |  | Lead – Customer Success & Delivery (Europe) | https://wellfound.com/jobs/4171880-lead-customer-success-delivery-europe
+        -> 120000
+  [2x] Yes
+        last: 2026-10-12 11:37:11 | Wellfound |  | Lead – Customer Success & Delivery (Europe) | https://wellfound.com/jobs/4171880-lead-customer-success-delivery-europe
+  [2x] No
+        last: 2026-10-12 11:37:11 | Wellfound |  | Lead – Customer Success & Delivery (Europe) | https://wellfound.com/jobs/4171880-lead-customer-success-delivery-europe
+  [4x] US work authorization
+        last: 2026-10-12 11:39:25 | Wellfound |  | Senior Fullstack Engineer, Growth | https://wellfound.com/jobs/4824591-senior-fullstack-engineer-growth
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [3x] I'm open to work remotely
+        last: 2026-10-12 11:39:25 | Wellfound |  | Senior Fullstack Engineer, Growth | https://wellfound.com/jobs/4824591-senior-fullstack-engineer-growth
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [3x] Desired Salary
+        last: 2026-10-12 11:39:25 | Wellfound |  | Senior Fullstack Engineer, Growth | https://wellfound.com/jobs/4824591-senior-fullstack-engineer-growth
+        -> 120000
+  [3x] Yes
+        last: 2026-10-12 11:39:25 | Wellfound |  | Senior Fullstack Engineer, Growth | https://wellfound.com/jobs/4824591-senior-fullstack-engineer-growth
+  [3x] No
+        last: 2026-10-12 11:39:25 | Wellfound |  | Senior Fullstack Engineer, Growth | https://wellfound.com/jobs/4824591-senior-fullstack-engineer-growth
+  [5x] US work authorization
+        last: 2026-10-12 11:41:35 | Wellfound |  | Software Engineer | https://wellfound.com/jobs/4824572-software-engineer
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [4x] I'm open to work remotely
+        last: 2026-10-12 11:41:35 | Wellfound |  | Software Engineer | https://wellfound.com/jobs/4824572-software-engineer
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [4x] Desired Salary
+        last: 2026-10-12 11:41:35 | Wellfound |  | Software Engineer | https://wellfound.com/jobs/4824572-software-engineer
+        -> 120000
+  [4x] Yes
+        last: 2026-10-12 11:41:35 | Wellfound |  | Software Engineer | https://wellfound.com/jobs/4824572-software-engineer
+  [4x] No
+        last: 2026-10-12 11:41:35 | Wellfound |  | Software Engineer | https://wellfound.com/jobs/4824572-software-engineer
+  [5x] I'm open to work remotely
+        last: 2026-10-12 11:44:44 | Wellfound |  | Forward Deployed Engineer | https://wellfound.com/jobs/4824742-forward-deployed-engineer
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [2x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 11:44:44 | Wellfound |  | Forward Deployed Engineer | https://wellfound.com/jobs/4824742-forward-deployed-engineer
+  [1x] (no question detected - apply form did not open or has no Next/Submit button)
+        last: 2026-10-12 11:44:55 | Wellfound |  | Platform Engineer - Inference | https://wellfound.com/jobs/4824738-platform-engineer-inference
+  [6x] I'm open to work remotely
+        last: 2026-10-12 11:52:10 | Wellfound |  | Platform Engineer - Inference | https://wellfound.com/jobs/4824738-platform-engineer-inference
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [3x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 11:52:10 | Wellfound |  | Platform Engineer - Inference | https://wellfound.com/jobs/4824738-platform-engineer-inference
+  [7x] I'm open to work remotely
+        last: 2026-10-12 11:52:31 | Wellfound |  | Implementation Specialist | https://wellfound.com/jobs/4824733-implementation-specialist
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [4x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 11:52:31 | Wellfound |  | Implementation Specialist | https://wellfound.com/jobs/4824733-implementation-specialist
+  [8x] I'm open to work remotely
+        last: 2026-10-12 11:52:55 | Wellfound |  | Senior UI/UX Designer & Accessibility Specialist | https://wellfound.com/jobs/4824726-senior-ui-ux-designer-accessibility-specialist
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [5x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 11:52:55 | Wellfound |  | Senior UI/UX Designer & Accessibility Specialist | https://wellfound.com/jobs/4824726-senior-ui-ux-designer-accessibility-specialist
+  [2x] where are you currently based? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 11:53:26 | Wellfound |  | Senior Fullstack Engineer, Growth | https://wellfound.com/jobs/4824591-senior-fullstack-engineer-growth
+  [6x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 11:53:49 | Wellfound |  | Software Engineer | https://wellfound.com/jobs/4824572-software-engineer
+  [9x] I'm open to work remotely
+        last: 2026-10-12 11:54:13 | Wellfound |  | Founding Software Engineer | https://wellfound.com/jobs/4824448-founding-software-engineer
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [7x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 11:54:13 | Wellfound |  | Founding Software Engineer | https://wellfound.com/jobs/4824448-founding-software-engineer
+  [10x] I'm open to work remotely
+        last: 2026-10-12 11:57:31 | Wellfound |  | Cinematographer | https://wellfound.com/jobs/4199847-cinematographer
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [11x] I'm open to work remotely
+        last: 2026-10-12 11:58:04 | Wellfound |  | Senior Software Engineer - Data | https://wellfound.com/jobs/4120473-senior-software-engineer-data
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [8x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 11:58:04 | Wellfound |  | Senior Software Engineer - Data | https://wellfound.com/jobs/4120473-senior-software-engineer-data
+  [12x] I'm open to work remotely
+        last: 2026-10-12 11:58:25 | Wellfound |  | Senior Data Platform Engineer | https://wellfound.com/jobs/4523416-senior-data-platform-engineer
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [9x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 11:58:25 | Wellfound |  | Senior Data Platform Engineer | https://wellfound.com/jobs/4523416-senior-data-platform-engineer
+  [13x] I'm open to work remotely
+        last: 2026-10-12 12:01:19 | Wellfound |  | Sales Engineer | https://wellfound.com/jobs/4824444-sales-engineer
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [14x] I'm open to work remotely
+        last: 2026-10-12 12:01:40 | Wellfound |  | Sales Associate – Peak Saunas (Remote, U.S. Only) | https://wellfound.com/jobs/4824290-sales-associate-peak-saunas-remote-u-s-only
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [10x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 12:01:40 | Wellfound |  | Sales Associate – Peak Saunas (Remote, U.S. Only) | https://wellfound.com/jobs/4824290-sales-associate-peak-saunas-remote-u-s-only
+  [15x] I'm open to work remotely
+        last: 2026-10-12 12:04:38 | Wellfound |  | Business Development Associate | https://wellfound.com/jobs/611513-sdr-part-time
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [16x] I'm open to work remotely
+        last: 2026-10-12 12:04:56 | Wellfound |  | Sales Development Representative | https://wellfound.com/jobs/4823758-sales-development-representative
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [11x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 12:04:56 | Wellfound |  | Sales Development Representative | https://wellfound.com/jobs/4823758-sales-development-representative
+  [17x] I'm open to work remotely
+        last: 2026-10-12 12:05:17 | Wellfound |  | Solar & Home Improvement Sales Rep — $15/hr Base + Uncapped Commission | https://wellfound.com/jobs/4823747-solar-home-improvement-sales-rep-15-hr-base-uncapped-commission
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [12x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 12:05:17 | Wellfound |  | Solar & Home Improvement Sales Rep — $15/hr Base + Uncapped Commission | https://wellfound.com/jobs/4823747-solar-home-improvement-sales-rep-15-hr-base-uncapped-commission
+  [18x] I'm open to work remotely
+        last: 2026-10-12 12:05:38 | Wellfound |  | Head of Marketing | https://wellfound.com/jobs/4824205-head-of-marketing
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [13x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 12:05:38 | Wellfound |  | Head of Marketing | https://wellfound.com/jobs/4824205-head-of-marketing
+  [19x] I'm open to work remotely
+        last: 2026-10-12 12:06:01 | Wellfound |  | Real Estate Agents & Brokers – Earn Additional Income Between Closings | https://wellfound.com/jobs/4824164-real-estate-agents-brokers-earn-additional-income-between-closings
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [14x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 12:06:01 | Wellfound |  | Real Estate Agents & Brokers – Earn Additional Income Between Closings | https://wellfound.com/jobs/4824164-real-estate-agents-brokers-earn-additional-income-between-closings
+  [20x] I'm open to work remotely
+        last: 2026-10-12 12:06:22 | Wellfound |  | B2B Content Manager | https://wellfound.com/jobs/4817733-b2b-content-manager
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [15x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 12:06:22 | Wellfound |  | B2B Content Manager | https://wellfound.com/jobs/4817733-b2b-content-manager
+  [21x] I'm open to work remotely
+        last: 2026-10-12 12:06:42 | Wellfound |  | Growth Marketing Associate | https://wellfound.com/jobs/3003330-growth-marketing-associate
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [16x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 12:06:42 | Wellfound |  | Growth Marketing Associate | https://wellfound.com/jobs/3003330-growth-marketing-associate
+  [22x] I'm open to work remotely
+        last: 2026-10-12 12:07:02 | Wellfound |  | Growth Lead | https://wellfound.com/jobs/4811853-growth-lead
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [17x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 12:07:02 | Wellfound |  | Growth Lead | https://wellfound.com/jobs/4811853-growth-lead
+  [23x] I'm open to work remotely
+        last: 2026-10-12 12:07:23 | Wellfound |  | Customer Operations & Experience Associate | https://wellfound.com/jobs/4824465-customer-operations-experience-associate
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [18x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 12:07:23 | Wellfound |  | Customer Operations & Experience Associate | https://wellfound.com/jobs/4824465-customer-operations-experience-associate
+  [24x] I'm open to work remotely
+        last: 2026-10-12 12:10:25 | Wellfound |  | Customer Associate, Commercial Strategy & Operations | https://wellfound.com/jobs/4823858-customer-associate-commercial-strategy-operations
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [1x] Website
+        last: 2026-10-12 12:10:25 | Wellfound |  | Customer Associate, Commercial Strategy & Operations | https://wellfound.com/jobs/4823858-customer-associate-commercial-strategy-operations
+        -> https://github.com/paulacarvajal
+  [5x] Yes
+        last: 2026-10-12 12:10:25 | Wellfound |  | Customer Associate, Commercial Strategy & Operations | https://wellfound.com/jobs/4823858-customer-associate-commercial-strategy-operations
+  [25x] I'm open to work remotely
+        last: 2026-10-12 12:13:46 | Wellfound |  | Manager, Technical Account Management | https://wellfound.com/jobs/4823846-manager-technical-account-management
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [1x] Phone Number
+        last: 2026-10-12 12:13:46 | Wellfound |  | Manager, Technical Account Management | https://wellfound.com/jobs/4823846-manager-technical-account-management
+        -> 3054649260
+  [6x] Yes
+        last: 2026-10-12 12:13:46 | Wellfound |  | Manager, Technical Account Management | https://wellfound.com/jobs/4823846-manager-technical-account-management
+  [26x] I'm open to work remotely
+        last: 2026-10-12 12:16:40 | Wellfound |  | Procurement Manager | https://wellfound.com/jobs/4823798-procurement-manager
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [27x] I'm open to work remotely
+        last: 2026-10-12 12:16:59 | Wellfound |  | Talent & People Lead | https://wellfound.com/jobs/4824464-talent-people-lead
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [19x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 12:16:59 | Wellfound |  | Talent & People Lead | https://wellfound.com/jobs/4824464-talent-people-lead
+  [28x] I'm open to work remotely
+        last: 2026-10-12 12:17:21 | Wellfound |  | HR & Talent Partner | https://wellfound.com/jobs/4824443-hr-talent-partner
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [20x] what interests you about working for this company? (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-12 12:17:21 | Wellfound |  | HR & Talent Partner | https://wellfound.com/jobs/4824443-hr-talent-partner
+  [29x] I'm open to work remotely
+        last: 2026-10-12 12:20:52 | Wellfound |  | Senior Recruiter | https://wellfound.com/jobs/4522287-senior-recruiter
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [1x] LinkedIn Profile
+        last: 2026-10-12 12:20:52 | Wellfound |  | Senior Recruiter | https://wellfound.com/jobs/4522287-senior-recruiter
+        -> https://www.linkedin.com/in/paulafcarvajal
+  [7x] Yes
+        last: 2026-10-12 12:20:52 | Wellfound |  | Senior Recruiter | https://wellfound.com/jobs/4522287-senior-recruiter
+  [5x] No
+        last: 2026-10-12 12:20:52 | Wellfound |  | Senior Recruiter | https://wellfound.com/jobs/4522287-senior-recruiter
+  [30x] I'm open to work remotely
+        last: 2026-10-12 12:24:16 | Wellfound |  | Senior Technical Recruiter | https://wellfound.com/jobs/4824216-senior-technical-recruiter
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [1x] Only considering remote / won't consider relocation
+        last: 2026-10-12 12:24:16 | Wellfound |  | Senior Technical Recruiter | https://wellfound.com/jobs/4824216-senior-technical-recruiter
+        -> No
+  [8x] Yes
+        last: 2026-10-12 12:24:16 | Wellfound |  | Senior Technical Recruiter | https://wellfound.com/jobs/4824216-senior-technical-recruiter
+  [1x] Github URL
+        last: 2026-10-12 12:24:16 | Wellfound |  | Senior Technical Recruiter | https://wellfound.com/jobs/4824216-senior-technical-recruiter
+        -> 6
+  [6x] No
+        last: 2026-10-12 12:24:16 | Wellfound |  | Senior Technical Recruiter | https://wellfound.com/jobs/4824216-senior-technical-recruiter
+  [2x] (no question detected - apply form did not open or has no Next/Submit button)
+        last: 2026-10-12 12:34:16 | Wellfound |  | Find what's next | https://wellfound.com/jobs/signup
+  [3x] (no question detected - apply form did not open or has no Next/Submit button)
+        last: 2026-10-12 12:34:27 | Wellfound |  | Forward Deployed Engineer | https://wellfound.com/jobs/4824742-forward-deployed-engineer
+  [1x] Website or Portfolio
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+        -> https://github.com/paulacarvajal
+  [1x] Fullstack
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+  [1x] Fullstack front-end leaning
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [1x] Fullstack back-end leaning
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [1x] Front-end
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+  [1x] Back-end
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+  [1x] Data
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+  [1x] Information Security
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [1x] Application Security
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [1x] Analytics
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+  [1x] Infrastructure
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+  [1x] AI/ML
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+  [1x] UX/UI
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+  [1x] People Manager
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [1x] 1 – No experience
+        last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
+        -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
+  [1x] website or portfolio (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-13 21:09:15 | Wellfound |  | Staff Software Engineer - Provider Growth & Activation (Remote) at Rula | https://wellfound.com/jobs/4797223-staff-software-engineer-provider-growth-activation-remote
+  [1x] linkedin profile (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-13 21:15:58 | Wellfound |  | Senior Software Engineer - Infrastructure Security (Remote) at Quora | https://wellfound.com/jobs/4391602-senior-software-engineer-infrastructure-security-remote
+  [2x] linkedin profile (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-13 21:16:27 | Wellfound |  | Staff Software Engineer at PermitFlow | https://wellfound.com/jobs/3933989-staff-software-engineer
+  [1x] What state are you currently located in?
+        last: 2026-10-13 21:18:08 | Wellfound |  | Senior Software Engineer, Payments & Ledger at Splash Sports | https://wellfound.com/jobs/4829689-senior-software-engineer-payments-ledger
+        -> New York
+  [9x] Yes
+        last: 2026-10-13 21:18:08 | Wellfound |  | Senior Software Engineer, Payments & Ledger at Splash Sports | https://wellfound.com/jobs/4829689-senior-software-engineer-payments-ledger
+  [7x] No
+        last: 2026-10-13 21:18:08 | Wellfound |  | Senior Software Engineer, Payments & Ledger at Splash Sports | https://wellfound.com/jobs/4829689-senior-software-engineer-payments-ledger
+  [1x] linkedin profile link (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-13 21:18:33 | Wellfound |  | Software Engineer at Virta Health | https://wellfound.com/jobs/4824894-software-engineer
+  [2x] linkedin profile link (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-13 21:19:04 | Wellfound |  | Senior Software Engineer II at Virta Health | https://wellfound.com/jobs/4536719-senior-software-engineer-ii
+  [1x] City
+        last: 2026-10-13 21:19:40 | Wellfound |  | Forward Deployed Engineer at Seekr | https://wellfound.com/jobs/4823824-forward-deployed-engineer
+        -> New York, NY
+  [1x] How are you using AI in your current role?
+        last: 2026-10-13 21:19:40 | Wellfound |  | Forward Deployed Engineer at Seekr | https://wellfound.com/jobs/4823824-forward-deployed-engineer
+  [1x] Have you ever held a security clearance?* - This field requires a response
+        last: 2026-10-13 21:19:40 | Wellfound |  | Forward Deployed Engineer at Seekr | https://wellfound.com/jobs/4823824-forward-deployed-engineer
+        -> Yes
+  [1x] Salary Expectations
+        last: 2026-10-13 21:19:40 | Wellfound |  | Forward Deployed Engineer at Seekr | https://wellfound.com/jobs/4823824-forward-deployed-engineer
+        -> 120000
+  [3x] linkedin profile (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-13 21:19:40 | Wellfound |  | Forward Deployed Engineer at Seekr | https://wellfound.com/jobs/4823824-forward-deployed-engineer
+  [8x] No
+        last: 2026-10-13 21:20:02 | Wellfound |  | Senior Software Engineer at Seekr | https://wellfound.com/jobs/4618000-senior-software-engineer
+  [4x] linkedin profile (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-13 21:20:02 | Wellfound |  | Senior Software Engineer at Seekr | https://wellfound.com/jobs/4618000-senior-software-engineer
+  [5x] linkedin profile (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-14 20:33:12 | ZipRecruiter | Whip Networks, Inc. | Senior Full Stack Software Engineer | https://www.ziprecruiter.com/jobs-search?location=West+Hollywood%2CCA&search=react+developer&lk=cdi9zMx7MyfJmLL3CorTgA
+  [6x] linkedin profile (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-14 20:36:59 | ZipRecruiter | Care Access | Senior Software Engineer, Full-Stack | https://www.ziprecruiter.com/jobs-search/2?days=30&location=United+States&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=40000&search=react+developer&lk=Y_5NxPUzVYpwsyRL6V8CDw
+  [1x] were you referred by a care access employee? (if "yes" please input full name below) (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-14 20:36:59 | ZipRecruiter | Care Access | Senior Software Engineer, Full-Stack | https://www.ziprecruiter.com/jobs-search/2?days=30&location=United+States&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=40000&search=react+developer&lk=Y_5NxPUzVYpwsyRL6V8CDw
+  [7x] linkedin profile (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-14 20:37:35 | ZipRecruiter | Ketch | Software Engineer (Full-Stack, Frontend Focus) | https://www.ziprecruiter.com/jobs-search/2?days=30&location=United+States&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=40000&search=react+developer&lk=YqD5heQxb70FexuIAixDWQ
+  [8x] linkedin profile (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-14 20:49:59 | ZipRecruiter | Sydecar | Senior Platform Engineer | https://www.ziprecruiter.com/jobs-search/3?days=30&location=United+States&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=40000&search=react+developer&lk=cl1Qcugmf1ogZXR3Ui2pVw
+  [9x] linkedin profile (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-14 20:53:26 | ZipRecruiter | Hex | Software Engineer, Fullstack | https://www.ziprecruiter.com/jobs-search/4?days=30&location=United+States&refine_by_apply_type=has_zipapply&refine_by_employment=employment_type%3Acontract%2Cemployment_type%3Afull_time%2Cemployment_type%3Apart_time&refine_by_location_type=only_remote&refine_by_salary=40000&search=react+developer&lk=ArScrdRxTmv-j75nczXXtA
+  [10x] linkedin profile (AI flagged: manual entry in additionalQuestions.yaml)
+        last: 2026-10-14 21:12:01 | ZipRecruiter | CTRL + LLC | Front-End Developer Java & Accessibility (Remote) | https://www.ziprecruiter.com/jobs-search?location=Annapolis+Junction%2CMD&search=javascript+developer&lk=vF3lokwA0ynPb4OJ_AJ1pQ

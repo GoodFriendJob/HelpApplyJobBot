@@ -1,0 +1,55 @@
+inputField:
+  briefly describe your software development background before or during your transition into technical leadership.: null
+  what cost estimating software have you used throughout your career?: null
+  do you see creadevs becoming a valuable platform for the creative industry?: null
+radio:
+  ecee688e-be1f-4ede-9a2c-a418ff02e87c public trust: public trust|secret|top secret|top
+    secret (sci)|no clearance
+  What is your current US visa status?: US Citizen|Green Card|H1B|Green Card - EAD|H4
+    - EAD|L2 - EAD|OPT/CPT|TN (Canadian)|Other
+  ea5d222d-d125-4fe1-8b88-f3530288ebf6 us citizen: us citizen|green card|h1b|green
+    card - ead|h4 - ead|l2 - ead|opt/cpt|tn (canadian)|other
+  What is your desired salary?: Annually|Hourly
+  '[''desiredsalaryai''] annually': A|H
+  ? 'STATEMENT FOR MARYLAND APPLICANTS: UNDER MARYLAND LAW, AN EMPLOYER MAY NOT REQUIRE
+    OR DEMAND, AS A CONDITION OF EMPLOYMENT, PROSPECTIVE EMPLOYMENT, OR CONTINUED
+    EMPLOYMENT, THAT AN INDIVIDUAL SUBMIT TO OR TAKE A LIE DETECTOR OR SIMILAR TEST.
+    AN EMPLOYER WHO VIOLATES THIS LAW IS GUILTY OF A MISDEMEANOR AND SUBJECT TO A
+    FINE NOT EXCEEDING $100.'
+  : Acknowledged by applicant|N/a|Choose not to answer
+  '[''ca_7e6b''] acknowledged by applicant': 498cc|498cd|498ce
+  fullstack customquestionanswers[365081][joblistingquestionoptionid] fullstack: fullstack|fullstack
+    front-end leaning|fullstack back-end leaning|front-end|back-end|data|information
+    security|application security|analytics|infrastructure|ai/ml|ux/ui|people manager
+  1 – no experience customquestionanswers[365082][joblistingquestionoptionid] 1 – no experience: 1
+    – no experience|2 – basic familiarity|3 - working knowledge|4 – advanced|5 – expert
+  alabama customquestionanswers[365085][joblistingquestionoptionid] alabama: alabama|alaska|arizona|arkansas|california|colorado|connecticut|delaware|florida|georgia|hawaii|idaho|illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|minnesota|mississippi|missouri|montana|nebraska|nevada|new
+    hampshire|new jersey|new mexico|new york|north carolina|north dakota|ohio|oklahoma|oregon|pennsylvania|rhode
+    island|south carolina|south dakota|tennessee|texas|utah|vermont|virginia|washington|washington,
+    d.c.|west virginia|wisconsin|wyoming
+  fullstack customquestionanswers[358891][joblistingquestionoptionid] fullstack: fullstack|fullstack
+    front-end leaning|fullstack back-end leaning|front-end|back-end|data|information
+    security|application security|analytics|infrastructure|ai/ml|ux/ui|people manager
+  1 – no experience customquestionanswers[358892][joblistingquestionoptionid] 1 – no experience: 1
+    – no experience|2 – basic familiarity|3 - working knowledge|4 – advanced|5 – expert
+  alabama customquestionanswers[358897][joblistingquestionoptionid] alabama: alabama|alaska|arizona|arkansas|california|colorado|connecticut|delaware|florida|georgia|hawaii|idaho|illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|minnesota|mississippi|missouri|montana|nebraska|nevada|new
+    hampshire|new jersey|new mexico|new york|north carolina|north dakota|ohio|oklahoma|oregon|pennsylvania|rhode
+    island|south carolina|south dakota|tennessee|texas|utah|vermont|virginia|washington|washington,
+    d.c.|west virginia|wisconsin|wyoming
+  c++ customquestionanswers[290621][joblistingquestionoptionid] c++: c++|java|python
+  canada customquestionanswers[290622][joblistingquestionoptionid] canada: canada|india|ireland|united
+    states|bangladesh|costa rica|egypt|estonia|germany|mexico|nigeria|poland|south
+    korea|thailand|united kingdom|other
+  1 - exploratory customquestionanswers[366350][joblistingquestionoptionid] 1 - exploratory: 1
+    - exploratory|2 - individual|3 - team|4 - cross-functional
+  1 - exploratory customquestionanswers[315974][joblistingquestionoptionid] 1 - exploratory: 1
+    - exploratory|2 - individual|3 - team|4 - cross-functional
+dropdown: {}
+checkbox:
+  Consent: By checking this box, you consent to the collection, use, processing, and
+    disclosure of your personal data for recruitment marketing purposes and to receive
+    business updates and notifications to receive communications per your stated preferences.
+    Your personal data will be processed in accordance with Bjak's Recruitment Policy.
+  Highest Level of Education: HS Diploma or Equivalency
+  How did you hear about Commure?: LinkedIn|Company Website|Recruiter Outreach|Podcast/Blog|Industry
+    Conference|Tech Community/Forum|Fireside Chat/Event|Other Job Boards

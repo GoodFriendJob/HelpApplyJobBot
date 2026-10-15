@@ -1,0 +1,30 @@
+
+---- Session Summary ----
+Jobs processed: 15 | Applied: 1 | Blacklisted: 8 | Already applied: 0 | Could not apply: 6 | Duration: 12.8 min
+
+---- Session Summary ----
+Jobs processed: 4 | Applied: 0 | Blacklisted: 0 | Already applied: 0 | Could not apply: 4 | Duration: 1.1 min
+
+---- Session Summary ----
+Jobs processed: 8 | Applied: 0 | Blacklisted: 2 | Already applied: 0 | Could not apply: 6 | Duration: 3.6 min
+
+---- Session Summary ----
+Jobs processed: 0 | Applied: 0 | Blacklisted: 0 | Already applied: 0 | Could not apply: 0 | Duration: 4.2 min
+
+---- Session Summary ----
+Jobs processed: 134 | Applied: 18 | Blacklisted: 13 | Already applied: 1 | Could not apply: 101 | Duration: 44.6 min
+
+---- Session Summary ----
+Jobs processed: 12 | Applied: 1 | Blacklisted: 2 | Already applied: 0 | Could not apply: 8 | Duration: 11.2 min
+
+---- Session Summary ----
+Jobs processed: 0 | Applied: 0 | Blacklisted: 0 | Already applied: 0 | Could not apply: 0 | Duration: 1.3 min
+
+---- Session Summary ----
+Jobs processed: 0 | Applied: 0 | Blacklisted: 0 | Already applied: 0 | Could not apply: 0 | Duration: 4.0 min
+
+---- Session Summary ----
+Jobs processed: 0 | Applied: 0 | Blacklisted: 0 | Already applied: 0 | Could not apply: 0 | Duration: 2.7 min
+
+---- Session Summary ----
+Jobs processed: 0 | Applied: 0 | Blacklisted: 0 | Already applied: 0 | Could not apply: 0 | Duration: 1.3 min

@@ -1,0 +1,6 @@
+
+---- Session Summary ----
+Jobs processed: 3 | Applied: 0 | Blacklisted: 0 | Already applied: 2 | Could not apply: 0 | Duration: 1.0 min
+
+---- Session Summary ----
+Jobs processed: 556 | Applied: 114 | Blacklisted: 99 | Already applied: 332 | Could not apply: 10 | Duration: 122.3 min

@@ -1,0 +1,528 @@
+inputField:
+  First Name: Paula
+  Last Name: Carvajal
+  prénom: Paula
+  nom de famille: Carvajal
+  courriel: paulaworkmi@gmail.com
+  téléphone: '3054649260'
+  Phone Country Code: United States (+1)
+  Phone Number: '3054649260'
+  Street address: New York, NY 10011
+  City: New York, NY
+  State: New York
+  Zip: '10011'
+  Linkedin: https://www.linkedin.com/in/paulafcarvajal
+  Website: https://github.com/paulacarvajal
+  samples of your work or a portfolio: https://github.com/paulacarvajal
+  family members working: 'No'
+  employee refer you: 'No'
+  referred you: 'No'
+  who do you know that works at: No one
+  if other, please provide: N/A
+  years of professional software engineering experience: '6'
+  years of professional experience: '6'
+  years of software development experience: '6'
+  healthcare provider systems: No, I haven't worked on US healthcare provider systems directly. I have 6+ years of building secure, data-heavy production applications with Python, Java, TypeScript, React, Angular and AWS, and I ramp up quickly on new business domains.
+  us healthcare: No direct US healthcare experience yet, but I have 6+ years of building secure, data-heavy production applications and ramp up quickly on new domains.
+  balance independent problem-solving with collaboration: 'I start by owning the problem myself: reading the code, reproducing the issue and forming a plan, so I come to the team with specifics rather than open questions. When a decision affects others or I''m blocked for more than a short time, I bring in teammates early through quick syncs, design notes or pull request discussions. I share what I learn through clear documentation, code reviews and pairing, so the whole team gets faster rather than relying on one person.'
+  how you work independently: I take ownership of my work end to end, break problems into clear steps and keep stakeholders updated on progress, while asking for input early when a decision affects others.
+  if other, please specify: N/A
+  do you know anyone who works at: 'No'
+  know anyone at: 'No'
+  Word of mouth, Referral or Other: None
+  Have you ever applied: 'No'
+  former ensono associate: 'No'
+  GPA: N/A
+  College or University: University of Louisville
+  References: Available upon request.
+  reasonable accommodation: None required.
+  aménagements nécessaires: Aucun.
+  disponibilités pour un stage: I am not looking for an internship. I am available to start a full-time role within two weeks.
+  are you based in prague: No, I am based in New York, NY, USA.
+  are you based in lisbon: No, I am based in New York, NY, USA.
+  'Sky: Children of the light': 'I haven''t played Sky: Children of the Light yet, but I''m looking forward to it.'
+  software testing life cycle: 'On my projects I''ve owned testing from start to finish: turning requirements into test cases, writing unit and integration tests alongside the code, automating them in CI/CD pipelines, reviewing code with the team, triaging and fixing defects, and monitoring releases after deployment to catch regressions early.'
+  align with: I have 6+ years of experience building production full-stack and AI-powered applications with Python, Java, TypeScript, React, Angular and AWS, and I enjoy owning features from idea to deployment. My goal is to keep building products that put modern AI to practical use, on a team that ships quickly and cares about quality, which is exactly what this role offers.
+  emoji: ⚡ ☕ ✨
+  tasa de rebote: 40%
+  Hours are you available every week: '40'
+  Notice period: 2 weeks
+  when would you be able to start: I can start within two weeks.
+  able to start: I can start within two weeks.
+  able to begin: I can start within two weeks.
+  able to join: I can start within two weeks.
+  incorporarte: '14'
+  Salary range: 120,000 USD per year
+  Desired salary: '120000'
+  Salary expectations: '120000'
+  Monthly compensation: '10000'
+  monthly gross salary: '10000'
+  what salary are you looking for: '120000'
+  expected income: '120000'
+  expected ctc: '120000'
+  Salary: '120000'
+  salarial: '120000'
+  salariales: '120000'
+  remuneración pretendida: 120,000 USD per year
+  gross per month in €uro: '9300'
+  monthly gross salary (huf): '3600000'
+  gross monthly PLN: '39000'
+  pln brutto/miesiąc: '39000'
+  net pay rate per hour in a b2b collaboration model (in pln): '235'
+  Hourly pay rate: '60'
+  Manage Technical Issues: '8'
+  experience working for a product company: 'Yes'
+  development of external forms using adobe forms: 'No'
+  Accounting/Auditing: 0
+  Administrative: 0
+  Advertising: 0
+  Analyst: 0
+  Art/Creative: 0
+  Business Development: 0
+  Consulting: 0
+  Customer Service: 0
+  Distribution Design: 0
+  Education: 0
+  Engineering: 6
+  Finance: 0
+  General Business: 0
+  Health Care Provider: 0
+  Human Resources: 0
+  Information Technology: 6
+  technology, information and internet experience: 6
+  Legal: 0
+  Management: 2
+  Manufacturing: 0
+  Marketing: 0
+  Public Relations: 0
+  Purchasing: 0
+  Product Management: 0
+  Project Management: 2
+  Production: 0
+  Quality Assurance: 3
+  Research: 0
+  Sales: 0
+  Science: 0
+  data science: 4
+  Strategy/Planning: 0
+  Supply Chain: 0
+  Training: 0
+  Writing/Editing: 0
+  Software Development: 6
+  custom app development: 6
+  saas: 6
+  worked as a developer: 6
+  développeur web: 6
+  développement informatique: 6
+  ruolo di sw engineer: 6
+  creazione di siti web: 6
+  sviluppo di prodotto: 6
+  implantación de software: 6
+  administración de páginas web: 6
+  programming languages: 6
+  langages de programmation maitrisez vous: 7
+  Python: 6
+  Java: 6
+  Javascript: 6
+  Typescript: 5
+  Node: 5
+  Ruby: 3
+  React: 5
+  React Native: 0
+  Redux.js: 4
+  Angular: 4
+  Angular Command Line Interface (CLI): 4
+  html/css validation: 6
+  SASS: 4
+  Spring Boot: 4
+  Spring: 4
+  Django: 4
+  rest api: 6
+  restful: 6
+  microservices: 5
+  SQL: 6
+  sql database: 6
+  relational databases: 6
+  non-relational databases: 5
+  MySQL: 5
+  PostgreSQL: 5
+  MongoDB: 4
+  Redis: 4
+  Elasticsearch: 3
+  kafka: 3
+  Spark: 3
+  Airflow: 3
+  AWS: 5
+  Microsoft Azure: 1
+  cloud development: 5
+  cloud: 5
+  Docker: 5
+  kubernetes: 3
+  Devops: 3
+  ci/cd: 5
+  github: 6
+  Gitlab: 3
+  Machine Learning: 4
+  Artificial Intelligence: 4
+  computer vision: 2
+  machine vision: 2
+  TensorFlow: 4
+  PyTorch: 4
+  Hugging Face: 3
+  LangChain: 2
+  numpy: 4
+  ui/ux: 3
+  ui design: 3
+  ux design: 3
+  Interface Design: 3
+  with design?: 3
+  google material design: 3
+  experiencia tienes con prueba unitaria: 6
+  interfaces: 6
+  software troubleshooting: 6
+  communication: 6
+  Start-up: 3
+  C++: 0
+  C#: 0
+  C (Programming Language): 0
+  .NET: 0
+  PHP: 0
+  Laravel: 0
+  with sap: 0
+  in sap: 0
+  Shopify: 0
+  selenium: 0
+  Linux: 0
+  Cross-functional team: 0
+  Social media platforms: 0
+  internet of things (iot): 0
+  opencv: 0
+  modelo-vista-controlador: 0
+  Embedded software: 0
+  embedded-software-programmierung: 0
+  embedded systems: 0
+  Apache: 0
+  puppeteering: 0
+  scorm: 0
+  aicc: 0
+  server integration services: 0
+  google analytics: 0
+  instagram analytics: 0
+  facebook ads manager: 0
+  Golang: 0
+  supporto tecnico: 0
+  android sdk: 0
+  microsoft office: 0
+  microsoft excel: 0
+  national institute of standards and technology: 0
+  cybersecurity: 0
+  akka: 0
+  zoho: 0
+  software defined networking: 0
+  wordpress: 0
+  oracle forms: 0
+  weblogic: 0
+  solidworks: 0
+  Symfony: 0
+  Xamarin: 0
+  Solr: 0
+  Skill development: 0
+  visual studio: 0
+  econometrie: 0
+  communicatie: 0
+  financiën: 0
+  Graphic design: 0
+  snowflake: 0
+  gis/spatial data: 0
+  imballaggio: 0
+  hashicorp vault: 0
+  windows server: 0
+  azure active directory: 0
+  active directory: 0
+  woocommerce: 0
+  telecommunications: 0
+  on-page seo: 0
+  e-commerce seo: 0
+  off-page seo: 0
+  field support: 0
+  producción de newsletter: 0
+  personal assistance: 0
+  computer hardware troubleshooting: 0
+  vmware: 0
+  comptia: 0
+  ionic: 0
+  flutter: 0
+  micro focus quality center: 0
+  design thinking: 0
+  modele 3d: 0
+  tecnologias microsoft: 0
+  microsoft sharepoint: 0
+  matlab: 0
+  e-handel: 0
+  typo3: 0
+  microsoft power platform: 0
+  codesys: 0
+  firstspirit: 0
+  openmodelica: 0
+  diseño creativo: 0
+  anwenderschulung: 0
+  meccatronica: 0
+  mobile application development: 0
+  wireframe/mockup generation tools: 0
+  automated processes: 0
+  microsoft dynamics nav: 0
+  abap: 0
+  websphere application server: 0
+  clojure: 0
+  with windows?: 0
+  aveva system platform: 0
+  business systems implementation: 0
+  技術支援: 0
+  pim/e-commerce: 0
+  smartplant: 0
+  piping and instrumentation drawing: 0
+  akeneo: 0
+  as a data engineer: 0
+  using dbt: 0
+  rust experience: 0
+  substrate experience: 0
+  cryptocurrency: 0
+  english: Native or bilingual
+  polski: None
+  angielski: Native or bilingual
+  ai coding agents: 'I use AI coding assistants daily for scaffolding, writing tests, refactoring and exploring unfamiliar code, and I treat their output like a junior teammate''s pull request: I review every change, run the tests and check edge cases. Where they have burned me is confident but wrong code, such as calling APIs that don''t exist, quietly changing behavior during a refactor, or missing project conventions, so I keep tasks small, give them clear context and never merge anything I haven''t verified.'
+  strong opinion: Most engineers underinvest in observability and boring reliability work. Clear logging, metrics and alerting, plus simple, well-tested code paths, prevent far more incidents than clever architecture, and they make every future change faster and safer.
+radio:
+  Driver: 'yes'
+  Sponsor: 'no'
+  Legally authorized: 'yes'
+  Urgent: 'yes'
+  Commute: 'yes'
+  commuting to this job's location: 'yes'
+  High School Diploma: 'yes'
+  Bachelor's Degree: 'yes'
+  Associate's Degree: 'no'
+  Master's Degree: 'no'
+  Master of Business Administration: 'no'
+  Doctor of Philosophy: 'no'
+  Doctor of Medicine: 'no'
+  Doctor of Law: 'no'
+  Background Check: 'yes'
+  Remote: 'yes'
+  Relocate: 'no'
+  US Citizen: 'yes'
+  Travel 25%: 'yes'
+  Drug Test: 'yes'
+  Hybrid: 'yes'
+  Onsite: 'yes'
+  North Korea: 'no'
+  Data retention: 'yes'
+  Legally authorized to work in Canada: 'no'
+  outside of California: 'yes'
+  Gender: Decline to Answer
+  Veteran: I don't wish to answer
+  Disability: I don't wish to answer
+  Race: I prefer not to specify
+  live in spain: 'no'
+  arbeitsvisum: ja
+  die fahrzeit zum arbeitsort in kauf zu nehmen: nein
+  deutschland: nein
+  österreich: nein
+  proficient in react, javascript, html and css: 'yes'
+  lisbon office: 'no'
+  fluent in speaking, reading and writing in english: 'yes'
+  werken in nederland: nee
+  om in nederland te werken: nee
+  om in belgië te werken: nee
+  privacybeleid van netcompany: ik geef toestemming
+  percorrere la distanza prevista: 'no'
+  desplazarte hasta la ubicación: 'no'
+  privacy policies: confirm
+  agree to receive occasional email updates: 'no'
+  right to live and work in uk: 'no'
+  based in greece: 'no'
+  3 years of working experience in a similar role: 'yes'
+  jenkins: 'no'
+  t-sql: 'no'
+  microsoft sql server: 'no'
+  vb.net: 'no'
+  health insurance claims: 'no'
+  dojazd do pracy: nie
+  permiso de trabajo para españa: 'no'
+  parrainage d’immigration: oui
+  manta’s privacy notice: 'yes'
+  nato secret security clearance: 'no'
+  java and typescript (angular): 'yes'
+  programming at the computer network level: 'no'
+  network interface level (udp, tcp): 'no'
+  tactical data links: 'no'
+  efficient, clear, readable, maintainable: 'yes'
+  near real time systems: 'yes'
+  continuous software integration and automated testing: 'yes'
+  maven, jira, gitlab, zephyr: 'yes'
+  speak and write fluent english: 'yes'
+  nationality of one of the nato nations: 'yes'
+  i have read the privacy notice: 'yes'
+  i identify my ethnicity as: prefer not to answer
+  sexual orientation: prefer not to answer
+  i am neurodiverse: prefer not to answer
+  located in the united states: 'yes'
+  dc metro area: 'no'
+  custom wordpress plugins: 'no'
+  citizenship / employment eligibility: u.s. citizen/permanent resident
+  angular version 14+: 'yes'
+  years of experience in web development: 5 - 8 years
+  kraków: 'no'
+  contact me about future job opportunities: 'yes'
+dropdown:
+  Are you located in the World?: 'Yes'
+  proficiency in english: Native or bilingual
+  proficiency in czech: None
+  proficiency in čeština: None
+  proficiency in angličtina: Native or bilingual
+  proficiency in greek: None
+  proficiency in french: None
+  proficiency in italian: None
+  proficiency in lithuanian: None
+  proficiency in latvian: None
+  proficiency in german: None
+  proficiency in hungarian: None
+  proficiency in dutch: None
+  proficiency in chinese: None
+  proficiency in polish: None
+  proficiency in spanish: None
+  proficiency in catalan: None
+  proficiency in swedish: None
+  proficiency in dansk: None
+  proficiency in engelsk: Native or bilingual
+  proficiency in русский: None
+  proficiency in английский: Native or bilingual
+  lingua inglese: Madrelingua
+  lingua italiano: Nessuno
+  lingua francese: Nessuno
+  niveau en anglais: Natif
+  niveau en français: Inexistant
+  beherrschen sie englisch: Muttersprache
+  beherrschen sie deutsch: Gar nicht
+  tu nivel de inglés: Nativo
+  vaardig bent u in het nederlands: Niet
+  vaardig bent u in het frans: Niet
+  'języka: angielski': Język ojczysty
+  'języka: polski': Żaden
+  are you located in prague: 'No'
+  expérience d'au moins 2 ans à ce poste: 'Yes'
+  30days: 'Yes'
+  work on-site / uk: 'No'
+  brno office: 'No'
+  background in engineering: 'Yes'
+  become a mobile developer: 'Yes'
+  standard openapi: 'Yes'
+  database (postgres, oracle, mysql): 'Yes'
+  maven 3, nodejs: 'Yes'
+  windev et webdev: 'No'
+  fachinformatiker: 'Yes'
+  avez vous déjà été entrepreneur: 'Yes'
+  do you live in portugal: 'No'
+  risiedi attualmente in veneto: 'No'
+  italiana parlata e scritta: 'No'
+  tencología: 'Yes'
+  testeo automatizado: 'Yes'
+  nato security clearance: 'No'
+  laurea in ambito informatico: Sì
+  programmazione python: Sì
+  mataró: 'No'
+  central tallinn: 'No'
+  4-8 years of frontend product development experience: 'Yes'
+  experience in html/css: 'Yes'
+  webgl: 'No'
+  understanding and improving existing code: 'Yes'
+  end-to-end project implementation: 'Yes'
+  notice period: 2 weeks
+  2h driving from brussels: 'No'
+  eu citizen: 'No'
+  resident of greece: 'No'
+  scripting in shell: 'No'
+  conoscenze di networking: 'No'
+  buona conoscenza della lingua inglese: 'Yes'
+  modalità ibrida su milano: 'No'
+  lavorare in italia: 'No'
+  onsite in valencia: 'No'
+  job offers communication: 'Yes'
+  convention de stage: 'No'
+  progettazione software: 'Yes'
+  conosci bene la lingua inglese: 'Yes'
+  bologna, forli/cesena, ravenna, rimini: 'No'
+  lavorare in presenza: 'No'
+  laurea in informatica: 'Yes'
+  c# oppure c / c++: 'No'
+  physically located in poland: 'No'
+  capital area of copenhagen: 'No'
+  esperienza con postgresql: 'Yes'
+  gestione di server linux: 'No'
+  good backend experience: 'Yes'
+  at least 8+ years of experience: 'No'
+  able to give coding test: 'Yes'
+  gender identity: Do not wish to answer
+  puesto presencial a jornada completa: 'No'
+  radio access network (ran): 'No'
+  canonical hacia la categoria portatiles: 'No'
+  oficina de valencia: 'No'
+  elektromechanica: 'No'
+  regel- en meettechniek: 'No'
+  c++ programming language: 'No'
+  bachelor of science (b.sc.): 'Yes'
+  hoogeveen: 'No'
+  certification on cloud security: 'No'
+  availability to start: 1-2 weeks
+  what is your location: USA
+  require sponsorship now or in the future: No (Citizen
+  experience with data science: 'Yes'
+  experience with devops: 'Yes'
+  ai tools and technologies: 'Yes'
+  geo spatial data: 'No'
+  do you live in poland: 'No'
+  adobe analytics: 'No'
+  data warehouses oder data-lakes: 'No'
+  permiso de trabajo en españa: 'No'
+  provincia di udine: 'No'
+  visa sponsorship from manta: 'Yes'
+  försvarsindustrin: 'Yes'
+  phone country code: United States (+1)
+  simulación aeronáutica: 'No'
+  hootsuite: 'No'
+  eligible to work in the location you are applying for (romania): 'No'
+  are you willing to relocate: 'No'
+  contentserv: 'No'
+  playwright: 'No'
+  cypress: 'No'
+  nightwatch.js: 'No'
+  пентестинг: 'No'
+  oscp: 'No'
+  английский в2+: 'Yes'
+  релокации на кипр: 'No'
+  monterrey: 'No'
+  do you have a portfolio: 'Yes'
+  experience with graphql: 'No'
+  former ensono associate: 'No'
+  gender?: Prefer not to answer
+  architektury mikrousługowej: 'Yes'
+  integracji międzysystemowej: 'Yes'
+  living in gdansk: 'No'
+  eu passport: 'No'
+  ux/ui developer with minimum 3 years: 'Yes'
+  rest, nosql, soapui or postman: 'Yes'
+  employee contract: 'Yes'
+  gdańsk or tri-city area: 'No'
+  gross salary of 9,500 to 15,000 pln per month: 'No'
+  poland, lithuania, latvia or estonia: 'No'
+  amazon, ebay, tiktok, clover, square: 'No'
+  central manchester: 'No'
+  commutable distance to cheltenham: 'No'
+  experience with ui and/or ux: 'Yes'
+  javascript/react.js: 'Yes'
+  buckinghamshire: 'No'
+  java and react at a senior level: 'Yes'
+  real-time development: 'Yes'
+  dlt / blockchain: 'No'
+  tier 4 visa: 'No'
+  enhanced dv clearance: 'No'
