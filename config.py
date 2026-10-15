@@ -7,22 +7,25 @@ browser = ["Chrome"]
 email = ""
 password = ""
 
-runDice = False
-runZipRecruiter = False
+runDice = True
+runZipRecruiter = True
 runWellfound = False
-diceEmail = ""
-dicePassword = ""
-zipRecruiterEmail = ""
-zipRecruiterPassword = ""
-wellfoundEmail = ""
-wellfoundPassword = ""
-searchLocations = ["United States"]
+diceEmail = "josh.ariasduran@gmail.com"
+dicePassword = "!rtu#193QEqwe"
+zipRecruiterEmail = "josh.ariasduran@gmail.com"
+zipRecruiterPassword = "!rtu#193QEqwe"
+wellfoundEmail = "josh.ariasduran@gmail.com"
+wellfoundPassword = "!rtu#193QEqwe"
+searchLocations = ["United States","Canada","Brazil","Ireland","United Kingdom","Netherlands","Luxembourg","Switzerland","Germany","Belgium","Spain","Italy","Sweden","Australia","Poland","Philippines","Malaysia","Norway","France","Denmark","Austria","Argentina","Chile","Crotia","Japan"]
 maxPagesPerSearch = 5
 manualLoginWaitSeconds = 300
 # Resume to upload and to ground AI answers in. Relative to the project root, or an absolute path.
 resumePath = r"data/Full-stack.pdf"
 skills = [
     "Python",
+    "Wordpress",
+    "Shopify",
+    "Android",
     "Java",
     "PHP",
     "Golang",
@@ -33,6 +36,22 @@ skills = [
     "ASP.NET Core",
     "JavaScript",
     "TypeScript",
+    "GoHighLevel",
+    "Firebase",
+    "Retall AI",
+    "AI Agentic",
+    "AI RAG",
+    "AI Automation",
+    "n8n",
+    "Magento",
+    "Drupal",
+    "Ruby",
+    "Ruby on Rails",
+    "ASP.NET MVC",
+    "MS-SQL",
+    "Oracle",
+    "Unity",
+    "Flutter",
     "SQL",
     "HTML",
     "HTML5",
@@ -74,6 +93,7 @@ skills = [
     "WebSocket",
     "JSON",
     "AJAX",
+    "Vue.js",
     "OAuth",
     "JWT",
     "PostgreSQL",
@@ -118,42 +138,42 @@ yearsOfExperience = 6
 yearsLeadingTeams = 2
 timeZone = "Eastern"
 willingToRelocate = "No"
-firstName = "Paula"
-lastName = "Carvajal"
-fullAddress = "New York, NY 10011"
-city = "New York"
-state = "New York"
-zipCode = "10011"
-country = "United States"
+firstName = "Jose"
+lastName = "Arias Duran"
+fullAddress = "Residencial campestre, Guasave, Sinaloa, México CP: 81048"
+city = "Guasave"
+state = "Sinaloa"
+zipCode = "81048"
+country = "Mexico"
 currentEmployer = "Streamnova Media"
-currentJobTitle = "Senior AI & Software Engineer"
+currentJobTitle = "Senior Full-Stack Developer in Web | Mobile | AI Automation"
 educationLevel = "Bachelor's Degree"
-school = "University of Louisville"
-graduationYear = "2016"
-fieldOfStudy = ""
+school = "Institute of Technology of Sonra "
+graduationYear = "2011"
+fieldOfStudy = "System Engineering"
 certifications = "AWS Certified Machine Learning - Specialty; Google Professional Machine Learning Engineer; Deep Learning Specialization (Coursera); Hugging Face NLP Course; MLOps Specialization (Coursera)"
-languages = "English (Native)"
+languages = "English (Fluent), Spain(Native)"
 referencesAnswer = "Available upon request."
-skillsSummary = "Python, Java, Ruby, JavaScript, TypeScript, SQL; React, Angular, HTML5, CSS3, Tailwind; FastAPI, Django, Spring Boot, Node.js; AWS, Docker, Kubernetes; PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch; Kafka, Spark, Airflow; TensorFlow, PyTorch, Hugging Face, LangChain, OpenAI API."
-projectAnswer = "I built an NLP document-processing pipeline using Python, FastAPI, LangChain and OpenAI APIs that automated document processing and information extraction. I've also built LLM fine-tuning workflows with Hugging Face Transformers and PyTorch on AWS SageMaker, and a real-time recommendation engine using TensorFlow, Kafka and Redis."
-strengthsAnswer = "I combine strong full-stack fundamentals with hands-on AI experience. Over 6+ years I've shipped production web apps, APIs and AI features end to end with Python, Java, TypeScript, React, Angular and AWS, and I'm comfortable owning work from requirements through deployment and maintenance. I'd bring that ownership, clean architecture and reliable delivery to {company}."
-timeZoneAnswer = "Eastern Time (ET) - New York, NY"
+skillsSummary = "Python, Java, Wordpress, Shopify, Ruby, JavaScript, TypeScript, n8n, AI Automation, SQL, React, React Native, Flutter, Magento, Wordpress, Shopify, Angular, HTML5, CSS3, TypeScript, Tailwind, FastAPI, Django, Spring Boot, Node.js, AWS, Docker, Kubernetes, PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Kafka, Spark, Airflow, TensorFlow, PyTorch, Hugging Face, LangChain, OpenAI API."
+projectAnswer = "Built custom content management systems (CMS) and e-commerce solutions with Shopify, Woocommerce, React and Node.js. Integrated payment systems (Stripe API) for seamless transactions in web applications."
+strengthsAnswer = "I combine strong full-stack fundamentals with hands-on AI experience. Over 12+ years I've shipped production web apps, APIs and AI features end to end with Python, Java, TypeScript, React, Angular and AWS, and I'm comfortable owning work from requirements through deployment and maintenance. I'd bring that ownership, clean architecture and reliable delivery to {company}."
+timeZoneAnswer = "MST (UTC-7), America/Mazatlan"
 salaryAlignAnswer = "Yes, my expectations align with the outlined range."
 desiredPay = 120000
 eeoAnswers = {
     "hispanic|latino": "Hispanic or Latino",
     "ethnicity|race": "",
-    r"gender|\bsex\b": "",
-    "veteran": "",
-    "disabilit": "",
+    r"gender|\bsex\b": "male",
+    "veteran": "I am veteran",
+    "disabilit": "no disabilit",
 }
 desiredHourlyPay = 60
 salaryExpectationAnswer = "I'm flexible and open to a competitive offer within your budgeted range for this role."
 availabilityAnswer = "I can start within two weeks."
 whyCompanyAnswer = "I'm excited about {company} because the {title} role lines up closely with what I do best: building production-ready full-stack and AI-powered applications end to end. I have 6+ years of experience with Python, Java, TypeScript, React, Angular and AWS, and I enjoy taking ownership of features from idea to deployment. I'd love to bring that experience to {company} and help the team ship reliable, well-built products."
-aboutMeAnswer = "I'm a Senior AI & Full-Stack Software Engineer with 6+ years of experience building web applications, REST APIs, microservices and AI-powered features using Python, Java, TypeScript, React, Angular and AWS. I currently develop AI-enabled software at Streamnova Media, and previously delivered full-stack projects for clients as a freelancer and built enterprise applications for Pfizer."
+aboutMeAnswer = "I'm a Senior AI & Full-Stack Software Engineer with 12+ years of experience building web applications, REST APIs, microservices and AI-powered features using Python, Java, TypeScript, React, Angular and AWS. I currently develop AI-enabled software at Streamnova Media, and previously delivered full-stack projects for clients as a freelancer and built enterprise applications for Pfizer."
 funFactAnswer = "I love turning everyday problems into small side projects - I've built several little tools just to automate my own routines."
-genericAnswer = "I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more detail."
+genericAnswer = "I have 12+ years of full-stack and AI engineering experience (Python, Asp.net, Wordpress, Shopify, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more detail."
 
 # PRO FEATURE - Optional! run browser in headless mode, no browser screen will be shown it will work in background.
 headless = False
@@ -166,10 +186,14 @@ chromeProfilePath = r""
 # These settings are for running Linkedin job apply bot.
 # location you want to search the jobs - ex : ["Poland", "Singapore", "New York City Metropolitan Area", "Monroe County"]
 # continent locations:["Europe", "Asia", "Australia", "NorthAmerica", "SouthAmerica", "Africa", "Australia"]
-location = ["United States"]
+location = ["United States","Canada","Brazil","Ireland","United Kingdom","Netherlands","Luxembourg","Switzerland","Germany","Belgium","Spain","Italy","Sweden","Australia","Poland","Philippines","Malaysia","Norway","France","Denmark","Austria","Argentina","Chile","Crotia","Japan"]
 # keywords related with your job search
 keywords = [
     "react developer",
+    "asp.net",
+    "python",
+    "php",
+    "qt",
     "react engineer",
     "typescript developer",
     "javascript developer",
@@ -187,6 +211,11 @@ keywords = [
     "mern",
     "mean stack",
     "saas developer",
+    "wordpress",
+    "magento",
+    "joomla",
+    "drupal",
+    "java",
     "full stack developer",
     "full-stack developer",
     "fullstack developer",
@@ -197,6 +226,7 @@ keywords = [
     "full-stack",
     "fullstack",
     "web developer",
+    "website developer",
     "web engineer",
     "web application developer",
     "web application engineer",
@@ -215,7 +245,7 @@ keywords = [
 # job experience Level - ex:  ["Internship", "Entry level" , "Associate" , "Mid-Senior level" , "Director" , "Executive"]
 experienceLevels = ["Entry level", "Associate", "Mid-Senior level"]
 # job posted date - ex: ["Any Time", "Past Month" , "Past Week" , "Past 24 hours"] - select only one
-datePosted = ["Past Month"]
+datePosted = ["Any Time"]
 # job type - ex:  ["Full-time", "Part-time" , "Contract" , "Temporary", "Volunteer", "Intership", "Other"]
 jobType = ["Full-time", "Part-time", "Contract"]
 # remote  - ex: ["On-site" , "Remote" , "Hybrid"]
@@ -354,9 +384,9 @@ AngelCoBotPassword = ""
 AngelCoEmail = ""
 AngelCoPassword = ""
 # jobTitle ex: ["Frontend Engineer", "Marketing"]
-angelCoJobTitle = ["Frontend Engineer"]
+angelCoJobTitle = ["Full-stack Engineer","Frontend Engineer","Frontend Engineer"]
 # location ex: ["Poland"]
-angelCoLocation = ["Poland"]
+angelCoLocation = ["United States","Canada","Brazil","Ireland","United Kingdom","Netherlands","Luxembourg","Switzerland","Germany","Belgium","Spain","Italy","Sweden","Australia","Poland","Philippines","Malaysia","Norway","France","Denmark","Austria","Argentina","Chile","Crotia","Japan"]
 
 # These settings are for running GlobalLogic job apply bot you need to purchase GlobalLogic bot obtain bot password, paste below and then run the bot.
 GlobalLogicBotPassword = ""
@@ -368,24 +398,24 @@ GlobalLogicPassword = ""
 # Process Management, Product Support, Quality Assurance,Sales, Sales Enablement,Technology, Usability and Design]
 GlobalLogicFunctions = ["Engineering"]
 # Global logic experience: ["0-1 years", "1-3 years", "3-5 years", "5-10 years", "10-15 years","15+ years"]
-GlobalLogicExperience = ["0-1 years", "1-3 years"]
+GlobalLogicExperience = ["10-15 years"]
 # Global logic location filter: ["Argentina", "Chile", "Crotia", "Germany", "India","Japan", "Poland"
 # Romania, Sweden, Switzerland,Ukraine, United States]
-GlobalLogicLocation = ["Poland"]
+GlobalLogicLocation = ["United States","Canada","Brazil","Ireland","United Kingdom","Netherlands","Luxembourg","Switzerland","Germany","Belgium","Spain","Italy","Sweden","Australia","Poland","Philippines","Malaysia","Norway","France","Denmark","Austria","Argentina","Chile","Crotia","Japan"]
 # Freelance yes or no
 GlobalLogicFreelance = ["no"]
 # Remote work yes or no
 GlobalLogicRemoteWork = ["yes"]
 # Optional! Keyword:["javascript", "react", "angular", ""]
-GlobalLogicKeyword = ["react"]
+GlobalLogicKeyword = ["javascript", "wordpress", "shopify", "python", "react", "angular"]
 # Global Logic Job apply settinngs
-FirstName = "O"
-LastName = "D"
-Email = ""
-LinkedInProfileURL = "www.google.com"
+FirstName = "Jose"
+LastName = "A.D."
+Email = "josh.ariasduran@gmail.com"
+LinkedInProfileURL = "https://www.linkedin.com/in/jose-arias-duran-7a8b67416"
 Phone = ""  # OPTIONAL
-Location = ""  # OPTIONAL
-HowDidYouHeard = ""  # OPTIONAL
+Location = "Mexico"  # OPTIONAL
+HowDidYouHeard = "Google"  # OPTIONAL
 ConsiderMeForFutureOffers = True  # true = yes, false = no
 
 # Testing & Debugging features
@@ -394,7 +424,7 @@ displayWarnings = False
 # Safety / simulation features
 # If True, the bot will NOT submit any applications.
 # Instead, it will navigate as usual but only log which jobs it *would* apply to.
-dryRun = False
+dryRun = True
 # Optional cap: stop after this many successful applications in one run. 0 = no limit.
 # Example: 50 or 100 to avoid applying too many jobs in a single session (LinkedIn recommends under 200/day).
 maxApplicationsPerRun = 0
