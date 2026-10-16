@@ -12,7 +12,9 @@
       "Bash(python -m venv v)",
       "Bash(./v/Scripts/python.exe -m pip install -q pyyaml)",
       "Bash(./v/Scripts/python.exe -c ' *)",
-      "Bash(grep -n \"^  are you a us citizen?: no$\" additionalQuestions.yaml)"
+      "Bash(grep -n \"^  are you a us citizen?: no$\" additionalQuestions.yaml)",
+      "Bash(git fetch *)",
+      "Bash(git rev-list *)"
     ]
   }
 }
