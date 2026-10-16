@@ -668,11 +668,16 @@ return prev;
             return config.availabilityAnswer
         if re.search(r"where are you (located|based)|current location|which city|what city", q):
             return self.answers["inputField"].get("City")
+        if re.search(r"citizen|green ?card|permanent resident|/\s*gc\b|\bgc\s*holder", q) and not re.search(r"authoriz|eligible to work|right to work", q):
+            return self.citizenshipAnswer()
         if re.search(r"authoriz|legally|eligible to work", q):
             return "Yes"
         if "sponsor" in q:
             return "No"
         return None
+
+    def citizenshipAnswer(self) -> str:
+        return str(getattr(config, "usCitizen", "No")).strip() or "No"
 
     def payNumber(self, question: str) -> str:
         if re.search(r"hour|/hr|per hr|hourly", question.lower()):
@@ -994,14 +999,15 @@ for (const e of ['input', 'change', 'blur']) el.dispatchEvent(new Event(e, {bubb
                 if current and "select" not in current and current not in ("", "-", "--", "choose", "please choose"):
                     continue
                 question = self.questionText(element)
-                answer = self.matchAnswer("dropdown", question)
+                answer, source = self.choiceAnswer(question, "dropdown")
                 chosen = False
                 if answer:
-                    for option in select.options:
-                        if answer.lower() in option.text.lower():
-                            select.select_by_visible_text(option.text)
-                            chosen = True
-                            break
+                    texts = [o.text for o in select.options]
+                    index = self.optionIndex(answer, texts)
+                    if index is not None and not re.search(r"^(select|choose|please|--)", texts[index].strip().lower()):
+                        select.select_by_visible_text(texts[index])
+                        self.answeredQuestions.append(f"{question[:90]} -> {texts[index]} [{source}]")
+                        chosen = True
                 if not chosen and len(select.options) > 1:
                     real = [o for o in select.options if o.text.strip() and not re.search(r"^(select|choose|please|--)", o.text.strip().lower())]
                     if real:
@@ -1139,7 +1145,7 @@ return groups;
         if re.search(r"background|drug (test|screen)", q):
             return "yes"
         if re.search(r"(currently|do you) (live|reside) in|located in|based in", q):
-            return "yes" if re.search(r"new york|\bny\b|united states|\bus\b|usa|east", q) else None
+            return "yes" if re.search(r"sinaloa|mexico|united states|\bus\b|usa", q) else None
         if re.search(r"bachelor", q):
             return "yes"
         if "authoriz" in q or "legally" in q or "eligible to work" in q or "right to work" in q:
@@ -1150,8 +1156,8 @@ return groups;
             return "no"
         if "pdf" in q and "resume" in q:
             return "yes"
-        if "citizen" in q:
-            return "yes"
+        if re.search(r"citizen|green ?card|permanent resident|/\s*gc\b|\bgc\s*holder", q):
+            return self.citizenshipAnswer().lower()
         if "time zone" in q or "timezone" in q or "region" in q:
             return config.timeZone.lower()
         if "clearance" in q:
@@ -1274,6 +1280,42 @@ return groups;
                     return [i]
         return []
 
+    def optionIndex(self, answer: str, options: List[str]) -> Optional[int]:
+        wanted = (answer or "").strip().lower()
+        if not wanted:
+            return None
+        lowered = [(o or "").strip().lower() for o in options]
+        for i, o in enumerate(lowered):
+            if o == wanted:
+                return i
+        for i, o in enumerate(lowered):
+            if o and re.search(r"(?<![a-z0-9])" + re.escape(wanted) + r"(?![a-z0-9])", o):
+                return i
+        if len(wanted) >= 4:
+            for i, o in enumerate(lowered):
+                if o and (wanted in o or o in wanted):
+                    return i
+        return None
+
+    def choiceAnswer(self, question: str, section: str):
+        answer = self.matchAnswer(section, question)
+        if answer:
+            return answer, "yaml"
+        return self.ruleAnswer(question), "profile"
+
+    def choicePicks(self, answer: str, options: List[str], isMulti: bool) -> List[int]:
+        picks = []
+        values = [v.strip() for v in answer.split(",") if v.strip()] if isMulti else [answer]
+        if not isMulti and self.optionIndex(answer, options) is None:
+            values = [v.strip() for v in answer.split(",") if v.strip()]
+        for value in values:
+            index = self.optionIndex(value, options)
+            if index is not None and index not in picks:
+                picks.append(index)
+                if not isMulti:
+                    break
+        return picks
+
     def fillChoiceGroups(self) -> None:
         try:
             groups = self.driver.execute_script(self.CHOICE_GROUPS_JS) or []
@@ -1283,25 +1325,19 @@ return groups;
             try:
                 if any(i.is_selected() for i in inputs):
                     continue
-                answer = self.matchAnswer("checkbox" if isMulti else "radio", question)
+                answer, source = self.choiceAnswer(question, "checkbox" if isMulti else "radio")
                 if not answer and options:
                     self.saveUnansweredQuestion(question, options, "checkbox" if isMulti else "radio")
                     continue
-                picks = []
-                if answer:
-                    answers = [v.strip() for v in answer.split(",")]
-                    for idx, opt in enumerate(options):
-                        if any(ans.lower() in opt.lower() or opt.lower() in ans.lower() for ans in answers):
-                            picks.append(idx)
+                picks = [i for i in self.choicePicks(answer, options, isMulti) if i < len(inputs)] if answer else []
                 if not picks and options:
                     self.saveUnansweredQuestion(question, options, "checkbox" if isMulti else "radio")
                     continue
-                picks = [i for i in picks if i is not None and i < len(inputs)]
                 for index in picks:
                     self.click(inputs[index])
                     time.sleep(0.3)
                 if picks:
-                    self.answeredQuestions.append(f"{question[:90]} -> {', '.join(options[i] for i in picks)} [yaml]")
+                    self.answeredQuestions.append(f"{question[:90]} -> {', '.join(options[i] for i in picks)} [{source}]")
             except Exception:
                 continue
 
@@ -1315,25 +1351,20 @@ return groups;
                 if any(r.is_selected() for r in radios):
                     continue
                 question = self.questionText(radios[0])
-                answer = self.matchAnswer("radio", question)
-                target = None
-                if answer:
-                    for r in radios:
-                        labelText = self.questionText(r)
-                        valueText = (r.get_attribute("value") or "").lower()
-                        if answer.lower() == valueText or answer.lower() in labelText.split():
-                            target = r
-                            break
                 labels = [self.labelFor(r) or (r.get_attribute("value") or "") for r in radios]
-                if target is None and (self.isEeo(question, labels) or self.unreadableOptions(labels)):
+                if self.isEeo(question, labels) or self.unreadableOptions(labels):
                     continue
-                if target is None:
+                answer, source = self.choiceAnswer(question, "radio")
+                index = None
+                if answer:
+                    index = self.optionIndex(answer, labels)
+                    if index is None:
+                        index = self.optionIndex(answer, [r.get_attribute("value") or "" for r in radios])
+                if index is None:
                     self.saveUnansweredQuestion(question, labels, "radio")
                     continue
-                if target is None and config.defaultRadioOption and len(radios) >= config.defaultRadioOption:
-                    target = radios[config.defaultRadioOption - 1]
-                if target is not None:
-                    self.click(target)
+                self.click(radios[index])
+                self.answeredQuestions.append(f"{question[:90]} -> {labels[index]} [{source}]")
             except Exception:
                 continue
 

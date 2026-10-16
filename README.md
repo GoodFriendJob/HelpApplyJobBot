@@ -324,7 +324,7 @@ Three files are involved. Only one of them holds your answers:
 ```yaml
 inputField:
   First Name: Paula
-  Phone Number: '3054649260'
+  Phone Number: '6871072627'
 radio:
   Are you comfortable with W2 role?: Yes
 dropdown:

@@ -1,19 +1,20 @@
 inputField:
-  First Name: Paula
-  Last Name: Carvajal
-  prénom: Paula
-  nom de famille: Carvajal
-  courriel: paulaworkmi@gmail.com
-  téléphone: '3054649260'
-  Phone Country Code: United States (+1)
-  Phone Number: '3054649260'
-  Street address: New York, NY 10011
-  City: New York, NY
-  State: New York
-  Zip: '10011'
-  Linkedin: https://www.linkedin.com/in/paulafcarvajal
-  Website: https://github.com/paulacarvajal
-  samples of your work or a portfolio: https://github.com/paulacarvajal
+  U.S. Citizen/ GC: 'No'
+  First Name: Jose
+  Last Name: Arias Duran
+  prénom: Jose
+  nom de famille: Arias Duran
+  courriel: josh.ariasduran@gmail.com
+  téléphone: '6871072627'
+  Phone Country Code: Mexico (+52)
+  Phone Number: '6871072627'
+  Street address: Guasave 81048
+  City: Guasave
+  State: Sinaloa
+  Zip: '81048'
+  Linkedin: https://www.linkedin.com/in/jose-arias-duran-7a8b67416
+  Website: https://github.com/GoodFriendJob
+  samples of your work or a portfolio: https://github.com/GoodFriendJob
   family members working: 'No'
   employee refer you: 'No'
   referred you: 'No'
@@ -51,8 +52,8 @@ inputField:
   aménagements nécessaires: Aucun.
   disponibilités pour un stage: I am not looking for an internship. I am available
     to start a full-time role within two weeks.
-  are you based in prague: No, I am based in New York, NY, USA.
-  are you based in lisbon: No, I am based in New York, NY, USA.
+  are you based in prague: No, I am based in Guasave, USA.
+  are you based in lisbon: No, I am based in Guasave, USA.
   'Sky: Children of the light': 'I haven''t played Sky: Children of the Light yet,
     but I''m looking forward to it.'
   software testing life cycle: 'On my projects I''ve owned testing from start to finish:
@@ -67,13 +68,12 @@ inputField:
     quality, which is exactly what this role offers.
   emoji: ⚡ ☕ ✨
   tasa de rebote: 40%
-  Work Visa Type: N/A – U.S. Citizen
-  Visa Status: U.S. Citizen
+  Work Visa Type: N/A
+  Visa Status: N/A
   If H-1B Visa Holder, are you willing to transfer Visa?: N/A
   Employment Type: Full-time
-  What is your current US visa status?: U.S. Citizen
-  Are you a U.S. citizen or lawful permanent resident (Green Card holder)?: Yes, U.S.
-    Citizen
+  What is your current US visa status?: N/A
+  Are you a U.S. citizen or lawful permanent resident (Green Card holder)?: 'No'
   ? which federal agencies have you worked with directly? please list the agency/agencies
     and briefly describe your role or project.
   : No direct federal agency experience, but I have 6+ years of software development
@@ -96,15 +96,15 @@ inputField:
     my expertise is in Python, Java, TypeScript, and React development.
   Have you developed Dataverse plug-ins, Custom APIs, or server-side extensions using C#/.NET?: No,
     I specialize in Python, Java, TypeScript, and React. I can learn C#/.NET if required.
-  technical writing & analysis example: My GitHub portfolio at https://github.com/paulacarvajal
+  technical writing & analysis example: My GitHub portfolio at https://github.com/GoodFriendJob
     includes well-documented projects with clear README files, API documentation,
     and technical analysis of design decisions.
   Are you willing to work strictly on w2?: 'True'
   do you require any type of visa sponsorship now or in the future? if so, please explain.: No,
-    I am a U.S. Citizen and do not require visa sponsorship.
-  'work authorization type (please select one):': U.S. Citizen
+    I do not require visa sponsorship.
+  'work authorization type (please select one):': 'No'
   '[optional] what are your pronouns?': She/Her
-  website, blog or portfolio: https://github.com/paulacarvajal
+  website, blog or portfolio: https://github.com/GoodFriendJob
   ? have you integrated third-party apis such as crm systems, communication tools,
     calendars, payment platforms, or other saas applications?
   : Yes, I have integrated multiple third-party APIs including payment platforms (Stripe,
@@ -113,10 +113,10 @@ inputField:
     integrations.
   do you need a work visa to work in the country where this job is located?: 'No'
   Consent: 'True'
-  'linkedin url:': https://www.linkedin.com/in/paulafcarvajal
+  'linkedin url:': https://www.linkedin.com/in/jose-arias-duran-7a8b67416
   are you legally authorized to work in the u.s.?: 'True'
   dates employed: 2018 - Present (6+ years of professional experience)
-  'please provide a link to your linkedin profile:': https://www.linkedin.com/in/paulafcarvajal
+  'please provide a link to your linkedin profile:': https://www.linkedin.com/in/jose-arias-duran-7a8b67416
   ? briefly describe your hands-on experience orchestrating multiple ai agents, including
     the tools or frameworks you used and your role.
   : I have built AI-powered applications using LLMs, LangChain, and the OpenAI API.
@@ -125,12 +125,12 @@ inputField:
     systems that leverage AI agents for automation and intelligent decision-making.
   do you hold a bachelor's degree or higher in a relevant field with at least 5 years of relevant experience?: Yes,
     I have a Bachelor's degree and 6+ years of professional software engineering experience.
-  what is your immigration status?: U.S. Citizen
-  social media: https://www.linkedin.com/in/paulafcarvajal
-  phone: '3054649260'
+  what is your immigration status?: N/A
+  social media: https://www.linkedin.com/in/jose-arias-duran-7a8b67416
+  phone: '6871072627'
   please enter the amount: '120000'
   if you responded yes, please enter the employee's name and your relationship below.: N/A
-  github profile: https://github.com/paulacarvajal
+  github profile: https://github.com/GoodFriendJob
   Hours are you available every week: '40'
   Notice period: 2 weeks
   when would you be able to start: I can start within two weeks.
@@ -233,7 +233,7 @@ inputField:
   kubernetes: '3'
   Devops: '3'
   ci/cd: '5'
-  github: https://github.com/paulacarvajal
+  github: https://github.com/GoodFriendJob
   Gitlab: '3'
   Machine Learning: '4'
   Artificial Intelligence: '4'
@@ -287,7 +287,7 @@ inputField:
     engineering teams I have supported junior engineers through code reviews, pairing
     sessions and design discussions, helping them grow their skills and ship production
     features with confidence.
-  current location: New York, New York
+  current location: Sinaloa, Sinaloa
   years of experience on spotify backstage ?: '0'
   how actively are you exploring new opportunities?: Actively looking and open to
     new opportunities.
@@ -308,7 +308,7 @@ inputField:
   what’s the most complex automation or workflow you’ve personally built in hubspot?: The
     candidate has not built any complex automation or workflow in HubSpot, as there
     is no mention of HubSpot experience in their profile.
-  where are you currently located?: New York, NY
+  where are you currently located?: Guasave
   what is one thing you built, shipped, or owned end-to-end?: Built an NLP document-processing
     pipeline using Python, FastAPI, LangChain, and OpenAI APIs for automated document
     processing and information extraction.
@@ -341,10 +341,10 @@ inputField:
     (Coursera), Hugging Face NLP Course, MLOps Specialization (Coursera)
   'if you were referred by someone, please list them here:': No referrals listed.
   ? this is a hybrid position requiring 2-3 days per week in either our san francisco
-    or new york office. please select the option that best describest your current
+    or Sinaloa office. please select the option that best describest your current
     work availability.
-  : I am currently in the New York City area and can commit 2-3 days per week in the
-    New York office.
+  : I am currently in the Sinaloa City area and can commit 2-3 days per week in the
+    Sinaloa office.
   hours per week available: '40'
   what about bitovi and this role, in particular, are of interest to you?: I’m excited
     about Bitovi’s focus on GraphQL and Kafka because I have hands-on experience with
@@ -377,7 +377,7 @@ inputField:
     I’m eager to contribute my end-to-end delivery expertise. I’m available to start
     within two weeks and thrive in collaborative, fast-paced environments.
   annually: '120000'
-  enter number to receive text messages: '3054649260'
+  enter number to receive text messages: '6871072627'
   if yes, please provide your tribal roll number.: The candidate does not have a tribal
     roll number.
   cover letter: I’m a Senior AI & Full-Stack Software Engineer with 6+ years of experience
@@ -388,8 +388,7 @@ inputField:
   'reason for leaving:': Seeking new opportunities for growth and challenge.
   i don't currently have a clearance: I do not currently hold a security clearance.
   i never held a clearance: I have never held a security clearance.
-  comments about your legal availability to work: I am a U.S. Citizen and legally
-    authorized to work without restrictions in the United States.
+  comments about your legal availability to work: I am not a U.S. citizen.
   ? are you aware of any potential conflicts of interest regarding potential employment
     at synergy (i.e. family relationships, safe harbor restrictions)?
   : No potential conflicts of interest known.
@@ -417,7 +416,7 @@ inputField:
   ? will you now or in the future require gas south, any of its subsidiaries, or parent
     company, to file a petition or application for employment-based visa status on
     your behalf to begin or continue employment with gas south?
-  : No, I do not require visa sponsorship. I am a U.S. Citizen.
+  : No, I do not require visa sponsorship.
   ? do you have experience working on healthcare or similar applications doing full
     stack end-to-end development, including testing and verification?
   : I have 6+ years of full-stack development experience with end-to-end testing and
@@ -518,7 +517,7 @@ inputField:
   if yes, what level?: Senior level.
   'electronic signature (type your name):': Paula Carvajal
   are you willing to work overtime?: Yes, I am willing to work overtime when needed.
-  what is your work authorization status?: U.S. Citizen
+  what is your work authorization status?: N/A
   this position requires an active public trust clearance. do you currently hold an active public trust clearance?: No,
     I do not currently hold a public trust clearance.
   ? 'have you designed for self-service: golden paths, multi-tenancy, and onboarding
@@ -551,7 +550,7 @@ inputField:
     in building scalable back-end architectures and AI workflows.
   what name do you prefer?: The candidate's preferred name is not provided in the
     profile.
-  where are you based right now?: New York, NY
+  where are you based right now?: Guasave
   why do you want to work at swift?: I’m excited about Swift Solar’s mission to advance
     renewable energy through innovative technology. My background in full-stack development
     and AI integration aligns with building scalable, high-performance systems. I’m
@@ -596,7 +595,7 @@ inputField:
     Engineer (Remote) position at CTRL + LLC. My background in cloud infrastructure,
     automation, and full-stack development aligns with the role's requirements. I
     am actively seeking new opportunities in this field.
-  if you selected international, what location(s)?: I am based in New York, United
+  if you selected international, what location(s)?: I am based in Sinaloa, United
     States, and currently not open to international relocation. My availability is
     to start within two weeks, and I prefer remote work opportunities within the U.S.
   in a few words, what interested you about vgs?: I'm interested in VGS's focus on
@@ -636,7 +635,7 @@ inputField:
   : I am not related to any current employees at Revolutional, LLC.
   if 'other', please list.: No other skills to list.
   if yes, please describe.: No, I am not willing to relocate. I am currently based
-    in New York, NY, and prefer to remain in the Eastern Time Zone for work. My availability
+    in Guasave, and prefer to remain in the Eastern Time Zone for work. My availability
     allows me to start within two weeks.
   to prove you are a real person, please type real below: real
   ? please provide us with any information that can help supplement your application
@@ -660,7 +659,7 @@ inputField:
     systems using Python, AWS, and machine learning frameworks positions me to contribute
     effectively to your projects. I’m eager to bring my technical skills and problem-solving
     approach to a dynamic team like yours.
-  preferred location: New York, NY
+  preferred location: Guasave
   total years of experience: '6'
   ? one of our core values at gravitee is ‘hold nothing back’ please provide an example
     of a time you’ve applied this and what the impact was.
@@ -728,7 +727,7 @@ inputField:
     new opportunities to apply my full-stack and AI expertise to impactful projects.
     I'm actively looking for a role that aligns with my skills and allows me to contribute
     to innovative solutions.
-  what are you looking for regarding location?: I'm looking for a role in New York,
+  what are you looking for regarding location?: I'm looking for a role in Sinaloa,
     NY. I'm not willing to relocate.
   ? please provide your explanation describing why 1) you are a human genuinely interested
     in this position and 2) an attestation that you are not a spam-bot, fake applicant.
@@ -838,9 +837,7 @@ inputField:
   what is your highest level of education?: I have 6+ years of full-stack and AI engineering
     experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to
     discuss this in more detail.
-  this position requires u.s. citizenship. are you a u.s. citizen?: I have 6+ years
-    of full-stack and AI engineering experience (Python, Java, TypeScript, React,
-    Angular, AWS) and would be glad to discuss this in more detail.
+  this position requires u.s. citizenship. are you a u.s. citizen?: 'No'
   this position requires an active secret clearance. do you have an active secret clearance or higher?: I
     have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript,
     React, Angular, AWS) and would be glad to discuss this in more detail.
@@ -973,9 +970,7 @@ inputField:
   top secret/ sci/ fs polygraph: I have 6+ years of full-stack and AI engineering
     experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to
     discuss this in more detail.
-  are you a us citizen?: I have 6+ years of full-stack and AI engineering experience
-    (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this
-    in more detail.
+  are you a us citizen?: no
   do you currently possess an active security clearance? if so what level?: N/A
   do you possess an active comptia security+ certification?: I have 6+ years of full-stack
     and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS)
@@ -983,9 +978,7 @@ inputField:
   have you previously been employed by lawelawe?: I have 6+ years of full-stack and
     AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and
     would be glad to discuss this in more detail.
-  what's your citizenship / employment eligibility?: I have 6+ years of full-stack
-    and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS)
-    and would be glad to discuss this in more detail.
+  what's your citizenship / employment eligibility?: 'No'
   what's your highest level of education completed?: I have 6+ years of full-stack
     and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS)
     and would be glad to discuss this in more detail.
@@ -1232,9 +1225,7 @@ inputField:
   other job boards: I have 6+ years of full-stack and AI engineering experience (Python,
     Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more
     detail.
-  are you a u.s. citizen, a permanent resident, or a green card holder?: I have 6+
-    years of full-stack and AI engineering experience (Python, Java, TypeScript, React,
-    Angular, AWS) and would be glad to discuss this in more detail.
+  are you a u.s. citizen, a permanent resident, or a green card holder?: 'No'
   what's driving your interest in leaving your current role and joining an early-stage ai-native law firm like virgil?: I
     have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript,
     React, Angular, AWS) and would be glad to discuss this in more detail.
@@ -1267,9 +1258,7 @@ inputField:
     this opportunity
   in context of sre, what would you define at "5 9's"?: I have 6+ years of full-stack
     and AI engineering experience and am excited about this opportunity
-  are you a u.s. citizen?: I have 6+ years of full-stack and AI engineering experience
-    (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this
-    in more detail.
+  are you a u.s. citizen?: 'No'
   do you currently obtain a security clearance?: I have 6+ years of full-stack and
     AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and
     would be glad to discuss this in more detail.
@@ -1400,7 +1389,7 @@ inputField:
   what specifically about parisi labs excites you?: I have 6+ years of full-stack
     and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS)
     and would be glad to discuss this in more detail.
-  one concrete thing you shipped in the last 18 months. what did you personally own? link or short description.: https://github.com/paulacarvajal
+  one concrete thing you shipped in the last 18 months. what did you personally own? link or short description.: https://github.com/GoodFriendJob
   do you need visa sponsorship now or within the next 3 years?: '6'
   anything unusual in your background that helps you here?: I have 6+ years of full-stack
     and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS)
@@ -1485,8 +1474,7 @@ inputField:
   ? if you are not a us citizen please specify that you have a green card. visa holders
     are not eligible to work on these government contracts. we are not able to offer
     sponsorship.
-  : I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript,
-    React, Angular, AWS) and would be glad to discuss this in more detail.
+  : 'No'
   how did you find out about this role?: I have 6+ years of full-stack and AI engineering
     experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to
     discuss this in more detail.
@@ -1539,11 +1527,11 @@ inputField:
     (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this
     in more detail.
   Only considering remote / won't consider relocation: Remote
-  github profile url: https://github.com/paulacarvajal
-  github repository: https://github.com/paulacarvajal
-  portfolio: https://github.com/paulacarvajal
-  portfolio url: https://github.com/paulacarvajal
-  portfolio link: https://github.com/paulacarvajal
+  github profile url: https://github.com/GoodFriendJob
+  github repository: https://github.com/GoodFriendJob
+  portfolio: https://github.com/GoodFriendJob
+  portfolio url: https://github.com/GoodFriendJob
+  portfolio link: https://github.com/GoodFriendJob
   notice period: Two weeks
   availability to start: Within two weeks
   when can you start: Within two weeks
@@ -1657,9 +1645,7 @@ inputField:
     Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more
     detail.
   how many years of work experience do you have in a(n) "insurance processor" position ?: '6'
-  what is your citizenship/employment eligibility?: I have 6+ years of full-stack
-    and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS)
-    and would be glad to discuss this in more detail.
+  what is your citizenship/employment eligibility?: 'No'
   what cost estimating software have you used throughout your career?: I have 6+ years
     of full-stack and AI engineering experience (Python, Java, TypeScript, React,
     Angular, AWS) and would be glad to discuss this in more detail.
@@ -1868,7 +1854,9 @@ radio:
   Background Check: 'yes'
   Remote: 'yes'
   Relocate: 'no'
-  US Citizen: 'yes'
+  US Citizen: 'no'
+  U.S. Citizen/ GC: 'No'
+  U.S. Citizen or Green Card: 'No'
   Travel 25%: 'yes'
   Drug Test: 'yes'
   Hybrid: 'yes'
@@ -1936,7 +1924,7 @@ radio:
   located in the united states: 'yes'
   dc metro area: 'no'
   custom wordpress plugins: 'no'
-  citizenship / employment eligibility: u.s. citizen/permanent resident
+  citizenship / employment eligibility: 'No'
   angular version 14+: 'yes'
   years of experience in web development: 5 - 8 years
   kraków: 'no'
@@ -1949,7 +1937,7 @@ radio:
   do you have at least 2 years of experience as a trainer or instructor?: 'No'
   do you have hands-on experience in cloud environments?: 'Yes'
   if you are a person, answer “human”. if you are not human, answer “not human”. don’t lie.: Human
-  what state do you currently reside in?: New York
+  what state do you currently reside in?: Sinaloa
   do you live east cost timezone in us?: 'Yes'
   do you currently reside in the location specified for this role?: 'No'
   have you read nebius's candidates privacy policy?: 'No'
@@ -2018,7 +2006,7 @@ radio:
   do you have at least 5 years of experience in full stack, or front end/back end development roles?: 'Yes'
   do you have professional experience with react, typescript, python/fastapi, and rest or graphql apis?: 'Yes'
   please select the statement that best applies to you.: N/A
-  current state of residence: New York
+  current state of residence: Sinaloa
   which best describes your current level of hands-on software engineering involvement?: I
     write and ship production code regularly while also leading engineers.
   which best describes your experience with ai-assisted or agentic software development?: I
@@ -2037,7 +2025,7 @@ radio:
   do you have customer service experience?: 'No'
   do you identify as an enrolled member of the seneca nation?: 'No'
   country: United States
-  work authorization: United States Citizen or Permanent Resident
+  work authorization: 'No'
   champro is part of the jobscore network of employers.: Don't recommend me for any
     jobs at other employers.
   state: NY
@@ -2395,7 +2383,7 @@ radio:
   Have you ever held a clearance in the past?: None
   Are you able to work in person at our Palo Alto office?: 'Yes'
   '[''zecgvfwl_f9''] yes': 'Yes'
-  Are you a citizen or permanent resident (green card holder) of the United States?: 'Yes'
+  Are you a citizen or permanent resident (green card holder) of the United States?: 'No'
   '[''ca_7e6b''] acknowledged by applicant': 'Yes'
   Are you able and willing to regularly come into the office to work?: 'Yes'
   If so, what level of clearance have you held previously?: None
@@ -2432,7 +2420,7 @@ radio:
   : 'Yes'
   '[''ca_7e70''] yes': 'Yes'
   '[''ca_7f29''] yes': 'Yes'
-  Are you a U.S. citizen?: 'Yes'
+  Are you a U.S. citizen?: 'No'
   c59c9cd9-8441-4610-8e13-2621ae1669c2 yes: 'Yes'
   '[''zhwpvfwr_f17''] yes': 'Yes'
   '[''ca_7e6c''] yes': 'Yes'
@@ -2463,7 +2451,7 @@ radio:
     AN EMPLOYER WHO VIOLATES THIS LAW IS GUILTY OF A MISDEMEANOR AND SUBJECT TO A
     FINE NOT EXCEEDING $100.'
   : 'Yes'
-  What is your current US visa status?: 'Yes'
+  What is your current US visa status?: 'No'
   '[''b0a9aacb-6d2c-4d0c-9120-86ce9c7dbf6b''] yes': 'Yes'
   ? Are you an alien (i) lawfully admitted for temporary residence, (ii) lawfully
     admitted as a refugee, or (iii) granted asylum in the United States?
@@ -2495,7 +2483,7 @@ radio:
   '[''e3fe7038-533b-41e8-bede-dc53ed8db54c''] yes': 'Yes'
   Are you a citizen of any country other than the United States?: 'Yes'
   '[''ca_7e6e''] yes': 'Yes'
-  ea5d222d-d125-4fe1-8b88-f3530288ebf6 us citizen: 'Yes'
+  ea5d222d-d125-4fe1-8b88-f3530288ebf6 us citizen: 'No'
   '[''2763635b-f287-4e98-a0ed-a3dbad6a0004''] yes': 'Yes'
   '[''zecgvfwl_f6''] yes': 'Yes'
   ecee688e-be1f-4ede-9a2c-a418ff02e87c public trust: 'Yes'
@@ -2504,9 +2492,6 @@ radio:
   yes requiresponsorship yes: 'Yes'
   yes usauthorized yes: 'Yes'
   yes customquestionanswers[258544][joblistingquestionoptionid] yes: 'Yes'
-  ? no, i’m a us citizen or green card holder or eligible for a tn visa customquestionanswers[364638][joblistingquestionoptionid]
-    no, i’m a us citizen or green card holder or eligible for a tn visa
-  : 'Yes'
   yes customquestionanswers[364818][joblistingquestionoptionid] yes: 'Yes'
   yes customquestionanswers[363721][joblistingquestionoptionid] yes: 'Yes'
   yes customquestionanswers[364819][joblistingquestionoptionid] yes: 'Yes'
@@ -2648,6 +2633,7 @@ radio:
   yes customquestionanswers[366031][joblistingquestionoptionid] yes: 'Yes'
   yes customquestionanswers[366032][joblistingquestionoptionid] yes: 'Yes'
 dropdown:
+  U.S. Citizen/ GC: 'No'
   Are you located in the World?: 'Yes'
   proficiency in english: Native or bilingual
   proficiency in czech: None
@@ -2760,7 +2746,7 @@ dropdown:
   provincia di udine: 'No'
   visa sponsorship from manta: 'Yes'
   försvarsindustrin: 'Yes'
-  phone country code: United States (+1)
+  phone country code: Mexico (+52)
   simulación aeronáutica: 'No'
   hootsuite: 'No'
   eligible to work in the location you are applying for (romania): 'No'
@@ -3079,7 +3065,7 @@ dropdown:
     policy for receiving text messages. copy and paste this link into a new browser
     window to view https://admin.isolvedhire.com/applicant-communication-policy/
   : 'Yes'
-  this position requires u.s. citizenship. are you a u.s. citizen?: 'Yes'
+  this position requires u.s. citizenship. are you a u.s. citizen?: 'No'
   this position requires an active secret clearance. do you have an active secret clearance or higher?: 'Yes'
   how did you hear about this job?: 'Yes'
   are you legally eligible to work in the united states?: Remote
@@ -3124,7 +3110,7 @@ dropdown:
   will you now or at any time in the future require visa sponsorship?: 'Yes'
   where did you learn about miratech?: Remote
   ? this is a hybrid position requiring 2-3 days per week in either our san francisco
-    or new york office. please select the option that best describest your current
+    or Sinaloa office. please select the option that best describest your current
     work availability.
   : 'Yes'
   are you legally authorized to work in the country in which you are applying?: 'Yes'
@@ -3202,8 +3188,8 @@ dropdown:
   : 'Yes'
   acknowledgement: 'Yes'
   do you consent to being contacted about this job via text/sms?: 'Yes'
-  are you a us citizen?: 'Yes'
-  what's your citizenship / employment eligibility?: 'Yes'
+  are you a us citizen?: 'No'
+  what's your citizenship / employment eligibility?: 'No'
   do you currently possess an active security clearance? if so what level?: 'Yes'
   do you possess an active comptia security+ certification?: 'Yes'
   have you previously been employed by lawelawe?: 'Yes'
@@ -3258,7 +3244,7 @@ dropdown:
   ? kobie operates in the following states. are you currently located in one of these
     states? colorado, connecticut, district of columbia, florida, georgia, illinois,
     indiana, louisiana, maryland, massachusetts, michigan, minnesota, mississippi,
-    missouri, nevada, new jersey, new mexico, new york, north carolina, ohio, oklahoma,
+    missouri, nevada, new jersey, new mexico, Sinaloa, north carolina, ohio, oklahoma,
     oregon, pennsylvania, rhode island, south carolina, tennessee, texas, vermont,
     virginia, wisconsin
   : Remote
@@ -3282,10 +3268,10 @@ dropdown:
   will you now or in the future require sponsorship for employment visa status (e.g., h-1b)?: 'Yes'
   are you open to contributing to projects across all levels of government, including federal?: 'Yes'
   we work in the office 4 days a week, monday through thursday. are you comfortable with that?: 'Yes'
-  are you based in new york city or washington, dc? if not, would you relocate?: Remote
+  are you based in Sinaloa city or washington, dc? if not, would you relocate?: Remote
   what is the highest us security clearance you currently hold?: 'Yes'
   what is the status of that clearance?: 'Yes'
-  if you don't hold a clearance, are you a us citizen willing to go through the investigation for one?: 'Yes'
+  if you don't hold a clearance, are you a us citizen willing to go through the investigation for one?: 'No'
   will you now or in the future require sponsorship for employment (h1b, visa, opt, etc)?: 'Yes'
   ? 'are you currently restricted by any prior agreements that may prevent you from
     working at or for circana? (example: non-competes, restrictive covenants, etc)'
@@ -3330,7 +3316,7 @@ dropdown:
   : 'Yes'
   do you currently have the right to work in the us?: 'Yes'
   will you now or in the future require sponsorship to work for an employer in the us?: 'Yes'
-  'are you a permanent resident of one of our approved hiring states: az, dc, fl, ga, il, ma, mi, nc, nj, oh, sc, tx, or wi.': Remote
+  'are you a permanent resident of one of our approved hiring states: az, dc, fl, ga, il, ma, mi, nc, nj, oh, sc, tx, or wi.': 'No'
   are you legally authorized to work in the country where this position will be worked?: Remote
   do you now, or will you in the future, require sponsorship?: 'Yes'
   are you comfortable with 30-40% business travel?: 'Yes'
@@ -3348,7 +3334,7 @@ dropdown:
   have you previously been employed by flexport or any of its entities; or by an agency representing flexport?: 'Yes'
   ? eligibility for this role is restricted to u.s. citizens due to specific federal
     contract requirements. do you meet this requirement?
-  : 'Yes'
+  : 'No'
   do you have an active ts/sci clearance?: 'Yes'
   i can confirm that i am able to work usa (pst) hours: 'Yes'
   salt ai is part of the jobscore network of employers.: 'Yes'
@@ -3361,7 +3347,7 @@ dropdown:
   2. will you now or in the future require employer sponsorship to work in the united states?: Remote
   '3. if you require sponsorship, please indicate your current u.s. work authorization (optional):': 'Yes'
   i am comfortable with the fact that this position requires being in the mountain view, ca office at least 3 days per week.: 'Yes'
-  are you a u.s. citizen, a permanent resident, or a green card holder?: 'Yes'
+  are you a u.s. citizen, a permanent resident, or a green card holder?: 'No'
   'we’re looking for someone who is:': 'Yes'
   which statement best describes your current location and flexibility?: Remote
   ? i am comfortable with the fact that this position requires being in the san francisco,
@@ -3374,7 +3360,7 @@ dropdown:
     engineering teams, rather than primarily implementing standards created by others?
   : 'Yes'
   are you located in any of the following geographies?: 'Yes'
-  are you a u.s. citizen?: 'Yes'
+  are you a u.s. citizen?: 'No'
   ? 'for virginia residents only (in accordance with section 40.1-11.1 of the code
     of virginia): are you legally eligible for employment in the united states?'
   : Remote
@@ -3473,8 +3459,8 @@ dropdown:
   ? if you are not a us citizen please specify that you have a green card. visa holders
     are not eligible to work on these government contracts. we are not able to offer
     sponsorship.
-  : 'Yes'
-  what is your citizenship/employment eligibility?: 'Yes'
+  : 'No'
+  what is your citizenship/employment eligibility?: 'No'
   are you willing to undergo a background check, in accordance with local laws and regulations?: 'Yes'
   do you have any background in aviation or unmanned aerial systems?: 'Yes'
   how did you hear about bamboohr?: 'Yes'
@@ -3563,7 +3549,7 @@ checkbox:
   spotify has my consent to contact me about future job opportunities.: Provide consent
     if you would like to be contacted about future job opportunities.
   highest level of education: 4 Year College Degree
-  what state do you currently live in?: New York - NY
+  what state do you currently live in?: Sinaloa - NY
   which software technologies do you have experience with? please select all that apply.: None
     of the above
   if yes, please select which company(s) from the list below.: CI Azumano
@@ -3599,7 +3585,7 @@ checkbox:
     deliverables on this contract, timing to get the individual onboarded is important
     and can be lengthy. In order to anticipate the timing of your badging, if offered
     the position, can you please confirm if you are a U.S. Citizen?
-  : 'Yes'
+  : 'No'
   Would you require visa sponsorship?: 'No'
   Highest Level of Education: 'Yes'
   Consent: 'Yes'

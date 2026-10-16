@@ -20,18 +20,18 @@ Fight against surveillance, spam, & identity theft
 6 | Staff Software Engineer - Provider (Remote) at Rula |  |  (required blacklisted tech: COBOL) | * 🤬 Blacklisted Job, skipped!: https://wellfound.com/jobs/4824244-staff-software-engineer-provider-remote
       🚩 Needs manual answer (manual entry in additionalQuestions.yaml: website or portfolio): website or portfolio
       ❓ first and last name (legal name)* -> Carvajal [yaml]
-      ❓ phone number* -> 3054649260 [profile]
-      ❓ linkedin* -> https://www.linkedin.com/in/paulafcarvajal [yaml]
+      ❓ phone number* -> 6871072627 [profile]
+      ❓ linkedin* -> https://www.linkedin.com/in/jose-arias-duran-7a8b67416 [yaml]
 7 | Sr. Software Engineer - Provider (Remote) at Rula |  |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
       🚩 Tech flag: {"decision": "FLAG", "matches": [{"term": "Android", "level": "MENTIONED", "evidence": "staff systems software engineer, android os platform"}], "reason": "mentioned blacklisted tech: Android"}
       🚩 Needs manual answer (manual entry in additionalQuestions.yaml: website or portfolio): website or portfolio
       ❓ first and last name (legal name)* -> Carvajal [yaml]
-      ❓ phone number* -> 3054649260 [profile]
-      ❓ linkedin* -> https://www.linkedin.com/in/paulafcarvajal [yaml]
+      ❓ phone number* -> 6871072627 [profile]
+      ❓ linkedin* -> https://www.linkedin.com/in/jose-arias-duran-7a8b67416 [yaml]
 8 | Staff Software Engineer - Provider Growth & Activation (Remote) at Rula |  |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://wellfound.com/jobs/4797223-staff-software-engineer-provider-growth-activation-remote
 9 | Senior Performance Engineer at Turquoise Health |  |  (required blacklisted tech: Salesforce, React Native) | * 🤬 Blacklisted Job, skipped!: https://wellfound.com/jobs/4824720-senior-performance-engineer
       🚩 Needs manual answer (manual entry in additionalQuestions.yaml: LinkedIn Profile): linkedin profile
-      ❓ phone* -> 3054649260 [profile]
+      ❓ phone* -> 6871072627 [profile]
       ❓ if you selected "other", please provide additional information. -> I bring 6+ years of full-stack development expertise, AI int [yaml]
       ❓ how did you find out about this opportunity? -> Wellfound [profile]
       ❓ any additional information you'd like to share? -> I bring 6+ years of full-stack development expertise, AI int [yaml]
@@ -40,33 +40,33 @@ Fight against surveillance, spam, & identity theft
 12 | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) at Quora |  |  (blacklisted title: machine learning) | * 🤬 Blacklisted Job, skipped!: https://wellfound.com/jobs/4766895-software-engineer-new-grad-machine-learning-platform-quora-remote
 13 | Applied Machine Learning Engineer at PermitFlow |  |  (blacklisted title: machine learning) | * 🤬 Blacklisted Job, skipped!: https://wellfound.com/jobs/3904972-applied-machine-learning-engineer
       🚩 Needs manual answer (manual entry in additionalQuestions.yaml: linkedin profile): linkedin profile
-      ❓ phone number* -> 3054649260 [profile]
+      ❓ phone number* -> 6871072627 [profile]
       ❓ what are your salary expectations?* -> 120000 [profile]
 14 | Staff Software Engineer at PermitFlow |  |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://wellfound.com/jobs/3933989-staff-software-engineer
 15 | Senior Software Engineer at wisp |  |  (required blacklisted tech: Ruby/Rails) | * 🤬 Blacklisted Job, skipped!: https://wellfound.com/jobs/4823875-senior-software-engineer
 16 | Senior Software Engineer, AI, DevEx at Splash Sports |  |  (required blacklisted tech: Salesforce) | * 🤬 Blacklisted Job, skipped!: https://wellfound.com/jobs/4829701-senior-software-engineer-payments-ledger-clone
-      ❓ what state are you currently located in?* -> New York [yaml]
+      ❓ what state are you currently located in?* -> Sinaloa [yaml]
 17 | Senior Software Engineer, Payments & Ledger at Splash Sports |  |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://wellfound.com/jobs/4829689-senior-software-engineer-payments-ledger
       ❌ Not answered: What state are you currently located in? [Yes]
       ❌ Not answered: Yes [No]
       ❌ Not answered: No [Yes]
       🚩 Needs manual answer (manual entry in additionalQuestions.yaml: linkedin profile): linkedin profile link
-      ❓ phone number* -> 3054649260 [profile]
+      ❓ phone number* -> 6871072627 [profile]
       ❓ if you have a familial relationship to a current virta employee, please  provide their nam -> I'm a Senior AI & Full-Stack Software Engineer with 6+ years [profile]
 18 | Software Engineer at Virta Health |  |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://wellfound.com/jobs/4824894-software-engineer
 19 | Senior Software Engineer - Client Lifecycle at Virta Health |  |  (required blacklisted tech: Salesforce) | * 🤬 Blacklisted Job, skipped!: https://wellfound.com/jobs/4791906-senior-software-engineer-client-lifecycle
       🚩 Tech flag: {"decision": "FLAG", "matches": [{"term": "Salesforce", "level": "MENTIONED", "evidence": "experience with customer-data, marketing-automation, or audience-activation platforms such as braze, segment, salesforce marketing cloud, or comparable systems."}, {"term": "iOS", "level": "MENTIONED", "evidence": "ios engineer full-time or internship"}, {"term": "Mobile Developer", "level": "MENTIONED", "evidence": "senior mobile developer - virtual"}], "reason": "mentioned blacklisted tech: Salesforce, iOS, Mobile Developer"}
       🚩 Needs manual answer (manual entry in additionalQuestions.yaml: linkedin profile link): linkedin profile link
-      ❓ phone number* -> 3054649260 [profile]
+      ❓ phone number* -> 6871072627 [profile]
       ❓ if you have a familial relationship to a current virta employee, please  provide their nam -> I'm a Senior AI & Full-Stack Software Engineer with 6+ years [profile]
 20 | Senior Software Engineer II at Virta Health |  |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://wellfound.com/jobs/4536719-senior-software-engineer-ii
       🚩 Tech flag: {"decision": "FLAG", "matches": [{"term": "iOS", "level": "MENTIONED", "evidence": "ios engineer full-time or internship"}], "reason": "mentioned blacklisted tech: iOS"}
       🚩 Needs manual answer (manual entry in additionalQuestions.yaml: linkedin profile): linkedin profile
-      ❓ phone* -> 3054649260 [profile]
+      ❓ phone* -> 6871072627 [profile]
       ❓ full legal name* -> Paula Carvajal [profile]
-      ❓ street address* -> New York, NY 10011 [yaml]
-      ❓ city* -> New York, NY [yaml]
-      ❓ zip code* -> 10011 [profile]
+      ❓ street address* -> Guasave 81048 [yaml]
+      ❓ city* -> Guasave [yaml]
+      ❓ zip code* -> 81048 [profile]
       ❓ how are you using ai in your current role?* -> Senior AI & Software Engineer [profile]
       ❓ salary expectations* -> 120000 [profile]
 21 | Forward Deployed Engineer at Seekr |  |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://wellfound.com/jobs/4823824-forward-deployed-engineer
@@ -76,7 +76,7 @@ Fight against surveillance, spam, & identity theft
       ❌ Not answered: Salary Expectations [-]
 22 | Principal AI Engineer at Seekr |  |  (blacklisted title: ai engineer principal) | * 🤬 Blacklisted Job, skipped!: https://wellfound.com/jobs/4618001-principal-ai-engineer
       🚩 Needs manual answer (manual entry in additionalQuestions.yaml: linkedin profile): linkedin profile
-      ❓ phone* -> 3054649260 [profile]
+      ❓ phone* -> 6871072627 [profile]
 23 | Senior Software Engineer at Seekr |  |  | * 🥵 Cannot apply to this Job! (needs manual answers): https://wellfound.com/jobs/4618000-senior-software-engineer
       ❌ Not answered: No [-]
       ❓ expected salary range * -> I'm flexible and open to a competitive offer [yaml]

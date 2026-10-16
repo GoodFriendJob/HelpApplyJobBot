@@ -3,17 +3,17 @@ inputField:
   Last Name: Carvajal
   prénom: Paula
   nom de famille: Carvajal
-  courriel: paulaworkmi@gmail.com
-  téléphone: '3054649260'
-  Phone Country Code: United States (+1)
-  Phone Number: '3054649260'
-  Street address: New York, NY 10011
-  City: New York, NY
-  State: New York
-  Zip: '10011'
-  Linkedin: https://www.linkedin.com/in/paulafcarvajal
-  Website: https://github.com/paulacarvajal
-  samples of your work or a portfolio: https://github.com/paulacarvajal
+  courriel: josh.ariasduran@gmail.com
+  téléphone: '6871072627'
+  Phone Country Code: Mexico (+52)
+  Phone Number: '6871072627'
+  Street address: Guasave 81048
+  City: Guasave
+  State: Sinaloa
+  Zip: '81048'
+  Linkedin: https://www.linkedin.com/in/jose-arias-duran-7a8b67416
+  Website: https://github.com/GoodFriendJob
+  samples of your work or a portfolio: https://github.com/GoodFriendJob
   family members working: 'No'
   employee refer you: 'No'
   referred you: 'No'
@@ -38,8 +38,8 @@ inputField:
   reasonable accommodation: None required.
   aménagements nécessaires: Aucun.
   disponibilités pour un stage: I am not looking for an internship. I am available to start a full-time role within two weeks.
-  are you based in prague: No, I am based in New York, NY, USA.
-  are you based in lisbon: No, I am based in New York, NY, USA.
+  are you based in prague: No, I am based in Guasave, USA.
+  are you based in lisbon: No, I am based in Guasave, USA.
   'Sky: Children of the light': 'I haven''t played Sky: Children of the Light yet, but I''m looking forward to it.'
   software testing life cycle: 'On my projects I''ve owned testing from start to finish: turning requirements into test cases, writing unit and integration tests alongside the code, automating them in CI/CD pipelines, reviewing code with the team, triaging and fixing defects, and monitoring releases after deployment to catch regressions early.'
   align with: I have 6+ years of experience building production full-stack and AI-powered applications with Python, Java, TypeScript, React, Angular and AWS, and I enjoy owning features from idea to deployment. My goal is to keep building products that put modern AI to practical use, on a team that ships quickly and cares about quality, which is exactly what this role offers.
@@ -487,7 +487,7 @@ dropdown:
   provincia di udine: 'No'
   visa sponsorship from manta: 'Yes'
   försvarsindustrin: 'Yes'
-  phone country code: United States (+1)
+  phone country code: Mexico (+52)
   simulación aeronáutica: 'No'
   hootsuite: 'No'
   eligible to work in the location you are applying for (romania): 'No'

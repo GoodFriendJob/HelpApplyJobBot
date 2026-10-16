@@ -22,9 +22,9 @@ NEED AN ANSWER
   [5x] Form error
         last: 2026-10-11 15:35:58 | Dice | Sradha Technologies LLC | .Net Programmer - Only Local to OH Candidates | https://www.dice.com/job-detail/5fab1606-05d0-4907-951b-35d294e9c707
   [2x] W2 contract
-        last: 2026-10-11 15:47:41 | Dice | New York Technology Partners | Team Lead – InfoLease/Rapport Application Support & Development | https://www.dice.com/job-detail/cd14bd7b-bde9-4ed4-8951-d899a93d9a2d
+        last: 2026-10-11 15:47:41 | Dice | Sinaloa Technology Partners | Team Lead – InfoLease/Rapport Application Support & Development | https://www.dice.com/job-detail/cd14bd7b-bde9-4ed4-8951-d899a93d9a2d
   [6x] Form error
-        last: 2026-10-11 15:47:41 | Dice | New York Technology Partners | Team Lead – InfoLease/Rapport Application Support & Development | https://www.dice.com/job-detail/cd14bd7b-bde9-4ed4-8951-d899a93d9a2d
+        last: 2026-10-11 15:47:41 | Dice | Sinaloa Technology Partners | Team Lead – InfoLease/Rapport Application Support & Development | https://www.dice.com/job-detail/cd14bd7b-bde9-4ed4-8951-d899a93d9a2d
   [2x] The approved salary range for this position is between $150-170K annually. Does that meet your requirements?
         last: 2026-10-11 16:07:00 | Dice | VITL | Director of Daily Operations and Customer Applications | https://www.dice.com/job-detail/f2ec581a-56cf-4c5d-b700-35638eeb4bb7
         -> True
@@ -192,7 +192,7 @@ NEED AN ANSWER
         -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
   [1x] Website
         last: 2026-10-12 12:10:25 | Wellfound |  | Customer Associate, Commercial Strategy & Operations | https://wellfound.com/jobs/4823858-customer-associate-commercial-strategy-operations
-        -> https://github.com/paulacarvajal
+        -> https://github.com/GoodFriendJob
   [5x] Yes
         last: 2026-10-12 12:10:25 | Wellfound |  | Customer Associate, Commercial Strategy & Operations | https://wellfound.com/jobs/4823858-customer-associate-commercial-strategy-operations
   [25x] I'm open to work remotely
@@ -200,7 +200,7 @@ NEED AN ANSWER
         -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
   [1x] Phone Number
         last: 2026-10-12 12:13:46 | Wellfound |  | Manager, Technical Account Management | https://wellfound.com/jobs/4823846-manager-technical-account-management
-        -> 3054649260
+        -> 6871072627
   [6x] Yes
         last: 2026-10-12 12:13:46 | Wellfound |  | Manager, Technical Account Management | https://wellfound.com/jobs/4823846-manager-technical-account-management
   [26x] I'm open to work remotely
@@ -221,7 +221,7 @@ NEED AN ANSWER
         -> I have 6+ years of full-stack and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to discuss this in more 
   [1x] LinkedIn Profile
         last: 2026-10-12 12:20:52 | Wellfound |  | Senior Recruiter | https://wellfound.com/jobs/4522287-senior-recruiter
-        -> https://www.linkedin.com/in/paulafcarvajal
+        -> https://www.linkedin.com/in/jose-arias-duran-7a8b67416
   [7x] Yes
         last: 2026-10-12 12:20:52 | Wellfound |  | Senior Recruiter | https://wellfound.com/jobs/4522287-senior-recruiter
   [5x] No
@@ -245,7 +245,7 @@ NEED AN ANSWER
         last: 2026-10-12 12:34:27 | Wellfound |  | Forward Deployed Engineer | https://wellfound.com/jobs/4824742-forward-deployed-engineer
   [1x] Website or Portfolio
         last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
-        -> https://github.com/paulacarvajal
+        -> https://github.com/GoodFriendJob
   [1x] Fullstack
         last: 2026-10-13 21:03:03 | Wellfound |  | Sr. Software Engineer - Provider (Remote) at Rula | https://wellfound.com/jobs/4824243-sr-software-engineer-provider-remote
   [1x] Fullstack front-end leaning
@@ -288,7 +288,7 @@ NEED AN ANSWER
         last: 2026-10-13 21:16:27 | Wellfound |  | Staff Software Engineer at PermitFlow | https://wellfound.com/jobs/3933989-staff-software-engineer
   [1x] What state are you currently located in?
         last: 2026-10-13 21:18:08 | Wellfound |  | Senior Software Engineer, Payments & Ledger at Splash Sports | https://wellfound.com/jobs/4829689-senior-software-engineer-payments-ledger
-        -> New York
+        -> Sinaloa
   [9x] Yes
         last: 2026-10-13 21:18:08 | Wellfound |  | Senior Software Engineer, Payments & Ledger at Splash Sports | https://wellfound.com/jobs/4829689-senior-software-engineer-payments-ledger
   [7x] No
@@ -299,7 +299,7 @@ NEED AN ANSWER
         last: 2026-10-13 21:19:04 | Wellfound |  | Senior Software Engineer II at Virta Health | https://wellfound.com/jobs/4536719-senior-software-engineer-ii
   [1x] City
         last: 2026-10-13 21:19:40 | Wellfound |  | Forward Deployed Engineer at Seekr | https://wellfound.com/jobs/4823824-forward-deployed-engineer
-        -> New York, NY
+        -> Guasave
   [1x] How are you using AI in your current role?
         last: 2026-10-13 21:19:40 | Wellfound |  | Forward Deployed Engineer at Seekr | https://wellfound.com/jobs/4823824-forward-deployed-engineer
   [1x] Have you ever held a security clearance?* - This field requires a response

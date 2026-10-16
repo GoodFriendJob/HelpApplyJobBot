@@ -171,18 +171,13 @@ class Dice(JobSiteBot):
         mainWindow = self.driver.current_window_handle
         knownWindows = list(self.driver.window_handles)
         jobId = url.rstrip("/").split("/")[-1]
-        try:
-            href = button.get_attribute("href") or ""
-        except Exception:
-            href = ""
-        if "/job-applications/" in href and "login" not in href:
-            self.open(href)
-        elif "login" in href:
-            self.open(f"https://www.dice.com/job-applications/{jobId}/wizard")
-        else:
-            self.open(f"https://www.dice.com/job-applications/{jobId}/wizard")
-        self.pause(2, 4)
+        before = self.currentUrl()
+        self.click(button)
+        self.pause(3, 5)
         self.switchToNewWindow(knownWindows)
+        if self.currentUrl() == before and "/job-detail/" in before.lower():
+            self.open(f"https://www.dice.com/job-applications/{jobId}/wizard")
+            self.pause(2, 4)
         if "dice.com" not in self.currentUrl().lower():
             self.countCannotApply += 1
             self.record(properties, "* 🥵 Applies on company site (not Dice Easy Apply)", url)

@@ -37,6 +37,12 @@ skills = [
     "JavaScript",
     "TypeScript",
     "GoHighLevel",
+    "n8n",
+    "Mailchimp",
+    "Three.js",
+    "Unity",
+    "Unity 3D",
+    "Flutter",
     "Firebase",
     "Retall AI",
     "AI Agentic",
@@ -424,7 +430,7 @@ displayWarnings = False
 # Safety / simulation features
 # If True, the bot will NOT submit any applications.
 # Instead, it will navigate as usual but only log which jobs it *would* apply to.
-dryRun = True
+dryRun = False
 # Optional cap: stop after this many successful applications in one run. 0 = no limit.
 # Example: 50 or 100 to avoid applying too many jobs in a single session (LinkedIn recommends under 200/day).
 maxApplicationsPerRun = 0
