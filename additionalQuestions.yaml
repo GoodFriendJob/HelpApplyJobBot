@@ -970,7 +970,7 @@ inputField:
   top secret/ sci/ fs polygraph: I have 6+ years of full-stack and AI engineering
     experience (Python, Java, TypeScript, React, Angular, AWS) and would be glad to
     discuss this in more detail.
-  are you a us citizen?: no
+  are you a us citizen?: 'No'
   do you currently possess an active security clearance? if so what level?: N/A
   do you possess an active comptia security+ certification?: I have 6+ years of full-stack
     and AI engineering experience (Python, Java, TypeScript, React, Angular, AWS)
