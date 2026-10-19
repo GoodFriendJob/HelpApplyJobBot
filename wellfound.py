@@ -39,7 +39,7 @@ class Wellfound(JobSiteBot):
 
     def searchUrl(self, keyword: str, location: str, page: int) -> str:
         params = [("query", keyword), ("page", str(page))]
-        if location and location.lower() == "remote":
+        if (location and location.lower() == "remote") or config.remote == ["Remote"]:
             params.append(("remote", "true"))
         return "https://wellfound.com/jobs?" + "&".join(f"{k}={quote_plus(v)}" for k, v in params)
 
@@ -92,6 +92,12 @@ class Wellfound(JobSiteBot):
         if reason:
             self.countBlacklisted += 1
             self.record(properties + f" ({reason})", "* 🤬 Blacklisted Job, skipped!", url)
+            return
+
+        notRemote = self.notRemoteReason(title, location)
+        if notRemote:
+            self.countNotRemote += 1
+            self.record(properties + f" ({notRemote})", "* 🏢 Not a fully remote job, skipped!", url)
             return
 
         if self.appliedOnPage():

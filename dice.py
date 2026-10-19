@@ -158,6 +158,12 @@ class Dice(JobSiteBot):
             self.record(properties + f" ({reason})", "* 🤬 Blacklisted Job, skipped!", url)
             return
 
+        notRemote = self.notRemoteReason(title, location)
+        if notRemote:
+            self.countNotRemote += 1
+            self.record(properties + f" ({notRemote})", "* 🏢 Not a fully remote job, skipped!", url)
+            return
+
         button = self.applyButton()
         if button is None:
             self.countCannotApply += 1

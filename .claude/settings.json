@@ -14,7 +14,10 @@
       "Bash(./v/Scripts/python.exe -c ' *)",
       "Bash(grep -n \"^  are you a us citizen?: no$\" additionalQuestions.yaml)",
       "Bash(git fetch *)",
-      "Bash(git rev-list *)"
+      "Bash(git rev-list *)",
+      "Bash(python \"C:/Users/HomePC/AppData/Local/Temp/claude/e--Work-HelpApplyJobBot/76f37da9-6e3f-4316-a8ca-ebf98e2861f5/scratchpad/check_remote.py\")",
+      "Bash(echo \"exit=$?\")",
+      "Bash(python -m py_compile jobsite.py dice.py ziprecruiter.py wellfound.py utils.py config.py)"
     ]
   }
 }

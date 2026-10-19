@@ -152,6 +152,12 @@ class ZipRecruiter(JobSiteBot):
             self.record(properties + f" ({reason})", "* 🤬 Blacklisted Job, skipped!", url)
             return
 
+        notRemote = self.notRemoteReason(title, location)
+        if notRemote:
+            self.countNotRemote += 1
+            self.record(properties + f" ({notRemote})", "* 🏢 Not a fully remote job, skipped!", url)
+            return
+
         if self.appliedBadge():
             self.countAlreadyApplied += 1
             self.record(properties, "* 🥳 Already applied!", url)

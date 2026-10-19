@@ -256,6 +256,9 @@ datePosted = ["Any Time"]
 jobType = ["Full-time", "Part-time", "Contract"]
 # remote  - ex: ["On-site" , "Remote" , "Hybrid"]
 remote = ["Remote"]
+# Only apply to fully remote jobs. Skips anything the posting shows as hybrid / on-site,
+# even when the site's remote filter let it through.
+onlyRemote = True
 # salary - ex:["$40,000+", "$60,000+", "$80,000+", "$100,000+", "$120,000+", "$140,000+", "$160,000+", "$180,000+", "$200,000+" ] - select only one
 salary = ["$40,000+"]
 # sort - ex:["Recent"] or ["Relevent"] - select only one

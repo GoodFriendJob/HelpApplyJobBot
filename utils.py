@@ -105,6 +105,7 @@ def printSessionSummary(
     count_already_applied: int,
     count_cannot_apply: int,
     duration_sec: float,
+    count_not_remote: int = 0,
 ):
     """Print and write a session summary to the data file."""
     duration_min = round(duration_sec / 60, 1)
@@ -114,6 +115,7 @@ def printSessionSummary(
     prGreen(f"   Jobs processed:     {count_jobs}")
     prGreen(f"   ✅ Applied:         {count_applied}")
     prGreen(f"   🤬 Blacklisted:     {count_blacklisted}")
+    prGreen(f"   🏢 Not fully remote:{count_not_remote}")
     prGreen(f"   🥳 Already applied: {count_already_applied}")
     prGreen(f"   🥵 Could not apply: {count_cannot_apply}")
     prGreen(f"   ⏱ Duration:         {duration_min} minute(s)")

@@ -93,6 +93,7 @@ class JobSiteBot:
         self.countApplied = 0
         self.countJobs = 0
         self.countBlacklisted = 0
+        self.countNotRemote = 0
         self.countAlreadyApplied = 0
         self.countCannotApply = 0
         self.seenJobs = set()
@@ -1598,6 +1599,9 @@ return out.slice(0, 15);
                              '[class*="job_description"]', '[class*="job-description"]', '[data-testid*="description"]']
 
     def jobDescription(self) -> str:
+        url = self.currentUrl()
+        if getattr(self, "descriptionUrl", None) == url and getattr(self, "descriptionText", ""):
+            return self.descriptionText
         try:
             text = self.driver.execute_script("""
 for (const s of arguments[0]) {
@@ -1608,7 +1612,42 @@ return '';
 """, self.DESCRIPTION_SELECTORS) or ""
         except Exception:
             text = ""
-        return text or self.pageText()
+        text = text or self.pageText()
+        self.descriptionUrl, self.descriptionText = url, text
+        return text
+
+    FULLY_REMOTE_PATTERN = (r"100% remote|fully remote|remote[ -]first|entirely remote|permanently remote|"
+                            r"work from (home|anywhere)|telecommut|remote \(.{0,20}\)|anywhere in the (us|usa|united states|world)")
+    # Hard signals: the job is not remote even when the posting is labelled "Remote".
+    ONSITE_PATTERN = (r"\bon-?site\b[^.]{0,40}\b(required|requirement|daily|weekly|presence|position|role|work)\b|"
+                      r"\b(required|require|must|expected)\b[^.]{0,40}\bon-?site\b|"
+                      r"\d\s*\+?\s*days?\s+(per|a)\s+week\s+(in|at|on-?site|onsite|in-?office|in the office)|"
+                      r"relocation (is )?required|must relocate|local candidates only|must be local|"
+                      r"this (position|role) is not remote|not a remote (position|role|job)|no remote")
+    # Soft signals: only disqualify a posting that is not already labelled remote.
+    LOCATION_BOUND_PATTERN = r"must (live|reside|be located|be able to commute|commute)"
+
+    def notRemoteReason(self, title: str, location: str) -> str:
+        """Return why a job is not fully remote, or '' when it is (or when the filter is off)."""
+        if not getattr(config, "onlyRemote", False):
+            return ""
+        heading = " ".join(f"{title} {location}".split()).lower()
+        if re.search(r"\bhybrid\b", heading):
+            return "hybrid job"
+        if re.search(r"\bon-?site\b|\bin-?office\b", heading):
+            return "on-site job"
+        text = self.jobDescription()[:8000].lower()
+        fullyRemote = re.search(self.FULLY_REMOTE_PATTERN, text)
+        if re.search(r"\bhybrid\b", text) and not fullyRemote:
+            return "hybrid job"
+        if fullyRemote:
+            return ""
+        match = re.search(self.ONSITE_PATTERN, text)
+        if match is None and "remote" not in heading:
+            match = re.search(self.LOCATION_BOUND_PATTERN, text)
+        if match:
+            return "not fully remote: " + " ".join(match.group(0).split())[:60]
+        return ""
 
     def techBlacklisted(self, title: str) -> str:
         if not getattr(config, "techBlacklist", True):
@@ -1846,7 +1885,8 @@ return '';
                 utils.prYellow(f"🛑 Reached max applications per run limit ({config.maxApplicationsPerRun}).")
             utils.prYellow(f"---- {self.siteName} ----")
             utils.printSessionSummary(self.countJobs, self.countApplied, self.countBlacklisted,
-                                      self.countAlreadyApplied, self.countCannotApply, time.time() - startTime)
+                                      self.countAlreadyApplied, self.countCannotApply, time.time() - startTime,
+                                      self.countNotRemote)
             try:
                 self.driver.quit()
             except Exception:
